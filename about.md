@@ -10,9 +10,9 @@ Born in Nantes (France) 26 of april 1991.
 
 Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Paris 5th) and _Duperré_ school of applied arts (ESAA, Paris 3rd)
 
-
-
-
+<br>
+<br>
+<br>
 ### PERFORMING ARTS
 * 2016 : Stage designer of _La Pythie_, a play by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
 
@@ -35,10 +35,9 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 * 2012 : Direction workshop with Philippe Quesne at the T2G, Gennevilliers.
 
 * 2012 : Winner of the school competition on stage design projects for the play _Tage Unter_ led by Stéphane Braunschweig at the National Theatre of La Colline, Paris.
-
-
-
-
+<br>
+<br>
+<br>
 ### INSTALLATION
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in Transmediale 2015, at HKW, Berlin. 
 
