@@ -2,10 +2,10 @@
 layout: post
 preview: 'http://placehold.it/300x300'
 date: '2016-11-13 00:24 +0100'
-published: true
+published: false
 title: 'Après, mais juste avant'
 ---
-
+![]({{site.baseurl}}/images/th_apresmaisjusteavant.jpg)
 Scénographie en collaboration avec Juliette Minchin
 
 Spectacle monté en Mars 2015
