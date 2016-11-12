@@ -16,9 +16,9 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: 'http://louiseds.github.io'
-url: 'http://louiseds.github.io'
-media: 'images'
+baseurl: ''
+url: http://louiseds.github.io
+media: images
 twitter_username: louisedouetsinenberg
 github_username: louiseds
 markdown: kramdown
