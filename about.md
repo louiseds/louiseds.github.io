@@ -35,9 +35,9 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 * 2012 : Direction workshop with Philippe Quesne at the T2G, Gennevilliers.
 
 * 2012 : Winner of the school competition on stage design projects for the play _Tage Unter_ led by Stéphane Braunschweig at the National Theatre of La Colline, Paris.
-<br>
-<br>
-<br>
+&nbsp;
+&nbsp;
+&nbsp;
 ### INSTALLATION
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in Transmediale 2015, at HKW, Berlin. 
 
