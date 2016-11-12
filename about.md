@@ -4,9 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-# Artist and stage designer
+## Artist and stage designer
+
 
 Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5) and Duperré school of applied arts (ESAA, Paris 3)
+
 
 
 
@@ -35,6 +37,7 @@ Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5
 
 
 
+
 ### INSTALLATION
 * 2014 : Watch your traces, digital installation for the exhibition Self-watching/Self-tracing in Transmediale 2015, HKW, Berlin. 
 
@@ -42,10 +45,12 @@ Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5
 
 
 
+
 ### MUSEOGRAPHY
 * 2013 : Scenography of the exhibition Géant, at Galerie Beaurepaire, Paris.
 
 * 2011 : Internship at the production department of the museum Centre Pompidou, Paris. (Exhibitions : Gerhard Richter, Brancusi and Cabinet d’art graphique.)
+
 
 
 
