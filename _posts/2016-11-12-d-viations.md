@@ -3,7 +3,7 @@ layout: post
 title: Déviations
 date: 'Sat Nov 12 2016 23:23:00 GMT+0100 (CET)'
 published: true
-preview: '![th_deviations.jpg]({{site.baseurl}}/images/th_deviations.jpg)'
+preview: images/th_deviations.jpg
 ---
 
 
