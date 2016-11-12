@@ -1,7 +1,7 @@
 prose:
   rooturl: '_posts'
   siteurl: 'http://louiseds.github.io/'
-  media: 'http://louiseds.github.io/images'
+  media: 'images'
   ignore:
     - index.md
     - _config.yml
