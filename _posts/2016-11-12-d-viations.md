@@ -37,5 +37,6 @@ Centré sur le corps, l’espace et le langage, le dispositif est un endroit per
 ![13438888_10208064874474508_3408305624604409791_n.jpg]({{site.baseurl}}/images/13438888_10208064874474508_3408305624604409791_n.jpg)
 
 
-
 Collectif Bras Cassés.
+
+(Crédit photos : Pernelle Popelin)
