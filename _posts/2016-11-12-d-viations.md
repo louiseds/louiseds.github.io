@@ -20,4 +20,22 @@ Nous percevons aujourd’hui l’écho de ces mots dans notre contexte contempor
 Nous avons développé un principe de spectacle participatif et autonome, entièrement activé par les spectateurs. Au travers de quatre actes, les participants sont invités à suivre un protocole pour faire le spectacle. Ils en sont à la fois public et performeurs.
 Centré sur le corps, l’espace et le langage, le dispositif est un endroit permettant de cultiver maladresses, accidents et déséquilibre. Chaque représentation de ce projet constitue une étape supplémentaire dans la recherche que nous avons engagée. Nous voulons mettre en place un terrain fertile à ce qui peut arriver. Ce projet ne produit rien de tangible, il n’est pas filmé, ce qui s’y passe est de nature à être observé uniquement par ceux qui ont la possibilité d’y intervenir. Les acteurs sont sans formation, sans préméditation, sans maîtrise. Il s’agit de saisir l’instant.
 
+![2016_06_24_Louise_Douet_Sinenberg-1.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-1.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-2.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-2.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-3.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-3.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-4.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-4.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-8.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-8.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-12.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-12.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-14.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-14.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-17.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-17.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-20.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-20.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-22.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-22.jpg)
+![2016_06_24_Louise_Douet_Sinenberg-21.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-21.jpg)
+![12871469_604383736395251_8257477958166392569_n.jpg]({{site.baseurl}}/images/12871469_604383736395251_8257477958166392569_n.jpg)
+![13428416_607534829413475_3147573685019973978_n.jpg]({{site.baseurl}}/images/13428416_607534829413475_3147573685019973978_n.jpg)
+![13528872_10208064875194526_4100970849544765573_n.jpg]({{site.baseurl}}/images/13528872_10208064875194526_4100970849544765573_n.jpg)
+![13438888_10208064874474508_3408305624604409791_n.jpg]({{site.baseurl}}/images/13438888_10208064874474508_3408305624604409791_n.jpg)
+
+
+
 Collectif Bras Cassés.
