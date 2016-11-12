@@ -1,8 +1,9 @@
 ---
-title: MON TITRE DE PROJET
-date: 2015-10-06 15:39:40 Z
 layout: post
-preview: "../images/th_nomdemonprojet.jpg"
+title: MON TITRE DE PROJET
+date: 'Tue Oct 06 2015 17:39:40 GMT+0200 (CEST)'
+preview: ../images/th_nomdemonprojet.jpg
+published: false
 ---
 
 Blabla Louise Douet sinenberg est une animatrice d'espace
