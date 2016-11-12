@@ -13,7 +13,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 <br>
  
 <br>
-
+ 
 ### PERFORMING ARTS
 
 * 2016 : Stage designer of _La Pythie_, a play by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
