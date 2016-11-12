@@ -1,9 +1,9 @@
 ---
 title: About
-permalink: /about/
+permalink: "/about/"
 layout: page
-published: true
 ---
+
 ## Artist and stage designer
 
 Born in Nantes (France) 26 of april 1991.
