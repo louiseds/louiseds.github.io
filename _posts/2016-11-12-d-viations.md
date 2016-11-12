@@ -1,10 +1,11 @@
 ---
-layout: post
-preview: 'http://placehold.it/300x300'
-date: '2016-11-12 23:23 +0100'
-published: false
 title: Déviations
+date: 2016-11-12 22:23:00 Z
+published: false
+layout: post
+preview: http://placehold.it/300x300
 ---
+
 ## Déviations
 
 
