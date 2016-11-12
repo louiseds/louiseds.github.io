@@ -14,6 +14,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 
 ### PERFORMING ARTS
+
 * 2016 : Stage designer of _La Pythie_, a play by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
 
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by Emmanuel Besnault at the National Conservatory (CnsAD), Paris.
@@ -40,20 +41,22 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 &nbsp;
 
 ### INSTALLATION
+
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in Transmediale 2015, at HKW, Berlin. 
 
 * 2013 : Technical team for Sylvia Schildge’s project on the event _La Nuit Blanche_, Paris.
 
-
-
+&nbsp;
+&nbsp;
 
 ### MUSEOGRAPHY
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 
 * 2011 : Internship at the production department of the museum Centre Pompidou, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
+&nbsp;
+&nbsp;
 
-
-
+&nbsp;
 
 ### VIDEO
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
