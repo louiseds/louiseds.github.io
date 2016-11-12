@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_apresmaisjusteavant.jpg
 date: '2016-11-13 00:24 +0100'
-published: false
+published: true
 title: 'Après, mais juste avant'
 ---
 Scénographie en collaboration avec Juliette Minchin
