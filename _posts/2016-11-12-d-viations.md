@@ -1,9 +1,9 @@
 ---
-title: Déviations
-date: 2016-11-12 22:23:00 Z
-published: false
 layout: post
-preview: http://placehold.it/300x300
+title: Déviations
+date: 'Sat Nov 12 2016 23:23:00 GMT+0100 (CET)'
+published: true
+preview: 'http://placehold.it/300x300'
 ---
 
 ## Déviations
@@ -19,4 +19,3 @@ Nous avons développé un principe de spectacle participatif et autonome, entiè
 Centré sur le corps, l’espace et le langage, le dispositif est un endroit permettant de cultiver maladresses, accidents et déséquilibre. Chaque représentation de ce projet constitue une étape supplémentaire dans la recherche que nous avons engagée. Nous voulons mettre en place un terrain fertile à ce qui peut arriver. Ce projet ne produit rien de tangible, il n’est pas filmé, ce qui s’y passe est de nature à être observé uniquement par ceux qui ont la possibilité d’y intervenir. Les acteurs sont sans formation, sans préméditation, sans maîtrise. Il s’agit de saisir l’instant.
 
 Collectif Bras Cassés.
-
