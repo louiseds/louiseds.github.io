@@ -1,8 +1,9 @@
 ---
-title: Welcome to Jekyll!
-date: 2015-10-06 15:39:40 Z
 layout: post
-preview: http://placehold.it/300x300
+title: Welcome to Jekyll!
+date: 'Tue Oct 06 2015 17:39:40 GMT+0200 (CEST)'
+preview: 'http://placehold.it/300x300'
+published: false
 ---
 
 ![Picture 1](http://placehold.it/800x600)
