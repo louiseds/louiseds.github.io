@@ -30,7 +30,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 * 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by Thomas Ostermeier, produced by the Schaubühne, Berlin.
 
-* 2014 : Director and stage designer of _UMR.6155_, a performance at the BNF for the « Evénements spectaculaires », Paris.
+* 2014 : Director and stage designer of _UMR.6155_, a performance at the BNF for the _Evénements spectaculaires_, Paris.
 
 * 2012 : Direction workshop with Philippe Quesne at the T2G, Gennevilliers.
 
