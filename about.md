@@ -1,8 +1,7 @@
 ---
 title: About
-permalink: /about/
+permalink: "/about/"
 layout: page
-published: true
 ---
 
 ## Artist and stage designer
