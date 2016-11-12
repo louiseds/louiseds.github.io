@@ -9,8 +9,10 @@ layout: page
 Born in Nantes (France) 26 of april 1991.
 
 Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Paris 5th) and _Duperré_ school of applied arts (ESAA, Paris 3rd)
-<br>`
-   
+ 
+ 
+ 
+ 
 ### PERFORMING ARTS
 
 * 2016 : Stage designer of _La Pythie_, a play by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
