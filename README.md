@@ -1,5 +1,3 @@
-# urban-theme
+# LOUISE DOUET SINENBERG PORTFOLIO
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
-
-Live-Demo: http://narkotyk.net/
+http://louiseds.github.io.com
