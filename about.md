@@ -10,8 +10,8 @@ Born in Nantes (France) 26 of april 1991.
 
 Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Paris 5th) and _Duperré_ school of applied arts (ESAA, Paris 3rd)
  
-<br> </ br>
-<br> </ br>
+<br>
+<br>
  
  
 ### PERFORMING ARTS
