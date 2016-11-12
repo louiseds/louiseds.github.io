@@ -33,18 +33,53 @@ Centré sur le corps, l’espace et le langage, le dispositif est un endroit per
  
 <br>
 ![2016_06_24_Louise_Douet_Sinenberg-4.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-4.jpg)
-
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-8.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-8.jpg)
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-12.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-12.jpg)
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-14.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-14.jpg)
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-17.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-17.jpg)
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-20.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-20.jpg)
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-22.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-22.jpg)
+<br>
+ 
+<br>
 ![2016_06_24_Louise_Douet_Sinenberg-21.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-21.jpg)
+<br>
+ 
+<br>
 ![12871469_604383736395251_8257477958166392569_n.jpg]({{site.baseurl}}/images/12871469_604383736395251_8257477958166392569_n.jpg)
+<br>
+ 
+<br>
 ![13428416_607534829413475_3147573685019973978_n.jpg]({{site.baseurl}}/images/13428416_607534829413475_3147573685019973978_n.jpg)
+<br>
+ 
+<br>
 ![13528872_10208064875194526_4100970849544765573_n.jpg]({{site.baseurl}}/images/13528872_10208064875194526_4100970849544765573_n.jpg)
+<br>
+ 
+<br>
 ![13438888_10208064874474508_3408305624604409791_n.jpg]({{site.baseurl}}/images/13438888_10208064874474508_3408305624604409791_n.jpg)
+<br>
+ 
+<br>
 
 
 Collectif Bras Cassés.
