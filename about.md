@@ -9,6 +9,7 @@ layout: page
 Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5) and Duperré school of applied arts (ESAA, Paris 3)
 
 
+
 ### PERFORMING ARTS
 ° 2016 : Stage designer for La Pythie, by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
 
@@ -33,16 +34,19 @@ Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5
 ° 2012 : Winner of the school competition on stage design for the play Tage Unter led by Stéphane Braunschweig at the National Theatre of La Colline, Paris.
 
 
+
 ### INSTALLATION
 ° 2014 : Watch your traces, digital installation for the exhibition Self-watching/Self-tracing in Transmediale 2015, HKW, Berlin. 
 
 ° 2013 : Technical team for Sylvia Schildge’s project on the event La Nuit Blanche, Paris.
 
 
+
 ### MUSEOGRAPHY
 ° 2013 : Scenography of the exhibition Géant, at Galerie Beaurepaire, Paris.
 
 ° 2011 : Internship at the production department of the museum Centre Pompidou, Paris. (Exhibitions : Gerhard Richter, Brancusi and Cabinet d’art graphique.)
+
 
 
 ### VIDEO
