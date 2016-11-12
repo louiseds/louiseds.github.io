@@ -18,6 +18,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 baseurl: ''
 url: http://louiseds.github.io
+media: http://louiseds.github.io/images
 twitter_username: louisedouetsinenberg
 github_username: louiseds
 markdown: kramdown
