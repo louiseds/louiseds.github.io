@@ -56,6 +56,6 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 
 ### VIDEO
-* 2013 : Realization of Fall through, a sequence shot short film, EnsAD, Paris.
+* 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 
-* 2012 : Props and decorator assistant on the film shoot of Aussi Loin by Franziska M. Hoenisch, Paris.
+* 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by Franziska M. Hoenisch, Paris.
