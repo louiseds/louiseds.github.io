@@ -6,7 +6,7 @@ layout: page
 
 ## Artist and stage designer
 
-
+Born in Nantes (France) the 26 of april 1991.
 Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5) and Duperré school of applied arts (ESAA, Paris 3)
 
 
