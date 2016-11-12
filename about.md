@@ -18,7 +18,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by Emmanuel Besnault at the National Conservatory (CnsAD), Paris.
 
-* 2016 : Director and stage designer of _Déviations_, showed at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), Paris.
+* 2016 : Director and stage designer of _Déviations_, showed at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
 
 * 2016 : Direction workshop with Grand Magasin at the Nanterre-Amandier National Theater.
 
