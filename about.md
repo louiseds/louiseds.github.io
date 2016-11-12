@@ -8,21 +8,21 @@ layout: page
 
 Born in Nantes (France) 26 of april 1991.
 
-Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Paris 5th) and Duperré school of applied arts (ESAA, Paris 3rd)
+Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Paris 5th) and _Duperré_ school of applied arts (ESAA, Paris 3rd)
 
 
 
 
 ### PERFORMING ARTS
-* 2016 : Stage designer for La Pythie, by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
+* 2016 : Stage designer for _La Pythie_ , by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
 
-* 2016 : Stage designer for 60°Nord, by Emmanuel Besnault at the National Conservatory (CnsAD), Paris.
+* 2016 : Stage designer for _60°Nord_ , by Emmanuel Besnault at the National Conservatory (CnsAD), Paris.
 
-* 2016 : Director and stage designer of Déviations, showed at the EnsAD and at the National school of Fine Arts (EnsBA), Paris.
+* 2016 : Director and stage designer of _Déviations_ , showed at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), Paris.
 
 * 2016 : Direction workshop with Grand Magasin at the Nanterre-Amandier National Theater.
 
-* 2015 : Master thesis, Ce qui arrive (about the potentiel of accident in the performing arts), mention ‘‘very good’’, Paris.
+* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), mention ‘‘very good’’, Paris.
 
 * 2015 : Stage designer for Avant mais juste après by Yvo Mentens at the National Conservatory (CnsAD), Paris. 
 
