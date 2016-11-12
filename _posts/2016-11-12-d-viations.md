@@ -20,10 +20,7 @@ Nous percevons aujourd’hui l’écho de ces mots dans notre contexte contempor
 Nous avons développé un principe de spectacle participatif et autonome, entièrement activé par les spectateurs. Au travers de quatre actes, les participants sont invités à suivre un protocole pour faire le spectacle. Ils en sont à la fois public et performeurs.
 Centré sur le corps, l’espace et le langage, le dispositif est un endroit permettant de cultiver maladresses, accidents et déséquilibre. Chaque représentation de ce projet constitue une étape supplémentaire dans la recherche que nous avons engagée. Nous voulons mettre en place un terrain fertile à ce qui peut arriver. Ce projet ne produit rien de tangible, il n’est pas filmé, ce qui s’y passe est de nature à être observé uniquement par ceux qui ont la possibilité d’y intervenir. Les acteurs sont sans formation, sans préméditation, sans maîtrise. Il s’agit de saisir l’instant.
 
-![2016_06_24_Louise_Douet_Sinenberg-1.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-1.jpg)
-<br>
- 
-<br>
+
 ![2016_06_24_Louise_Douet_Sinenberg-2.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-2.jpg)
 <br>
  
@@ -37,6 +34,10 @@ Centré sur le corps, l’espace et le langage, le dispositif est un endroit per
  
 <br>
 ![2016_06_24_Louise_Douet_Sinenberg-8.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-8.jpg)
+<br>
+ 
+<br>
+![2016_06_24_Louise_Douet_Sinenberg-1.jpg]({{site.baseurl}}/images/2016_06_24_Louise_Douet_Sinenberg-1.jpg)
 <br>
  
 <br>
