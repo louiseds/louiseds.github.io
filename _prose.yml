@@ -1,7 +1,6 @@
 prose:
   rooturl: '_posts'
   siteurl: 'http://louiseds.github.io/'
-  relativeLinks: 'http://louiseds.github.io/links.jsonp'
   media: 'media'
   ignore:
     - index.md
