@@ -17,3 +17,7 @@ prose:
         field:
           element: "text"
           value: "http://placehold.it/300x300"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
