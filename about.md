@@ -1,7 +1,8 @@
 ---
 title: About
-permalink: "/about/"
+permalink: /about/
 layout: page
+published: true
 ---
 
 ## Artist and stage designer
@@ -50,7 +51,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 <br>
 
 ### MUSEOGRAPHY
-*2016 : Scenography of the exhibition of the fondation Bettencourt-Schueller _Chaire « Innovation & Savoir-faire »_, Paris.
+* 2016 : Scenography of the exhibition of the fondation Bettencourt-Schueller _Chaire « Innovation & Savoir-faire »_, Paris.
 
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 
