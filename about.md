@@ -58,7 +58,6 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 <br>
  
-
 <br>
 
 ### VIDEO
