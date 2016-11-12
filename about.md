@@ -34,28 +34,26 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 * 2012 : Direction workshop with Philippe Quesne at the T2G, Gennevilliers.
 
 * 2012 : Winner of the school competition on stage design projects for the play _Tage Unter_ led by Stéphane Braunschweig at the National Theatre of La Colline, Paris.
-&nbsp;
-&nbsp;
-&nbsp;
+ 
+ 
+ 
 
 ### INSTALLATION
 
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in Transmediale 2015, at HKW, Berlin. 
 
 * 2013 : Technical team for Sylvia Schildge’s project on the event _La Nuit Blanche_, Paris.
-
-&nbsp;
-&nbsp;
+ 
+ 
 
 ### MUSEOGRAPHY
 *2016 : Scenography of the exhibition of the fondation Bettencourt-Schueller _Chaire « Innovation & Savoir-faire »_, Paris.
+
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 
 * 2011 : Internship at the production department of the museum Centre Pompidou, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
-&nbsp;
-&nbsp;
-
-&nbsp;
+ 
+ 
 
 ### VIDEO
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
