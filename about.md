@@ -26,7 +26,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 * 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), mention ‘‘very good’’, Paris.
 
-* 2015 : Stage designer of _Avant mais juste après_ a play by Yvo Mentens at the National Conservatory (CnsAD), Paris. 
+* 2015 : Stage designer of _Après mais juste avant_ a play by Yvo Mentens at the National Conservatory (CnsAD), Paris. 
 
 * 2014 : Stage designer assistant for _The Past_, directed by Constanza Macras, cie. Dorkyparks, produced by Hellerau and Schaubühne, Dresden and Berlin.
 
