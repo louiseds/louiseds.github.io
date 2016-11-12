@@ -9,7 +9,12 @@ layout: page
 Born in Nantes (France) 26 of april 1991.
 
 Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Paris 5th) and _Duperré_ school of applied arts (ESAA, Paris 3rd)
-
+&nbsp;
+&nbsp;
+<br />
+<br />
+ 
+ 
 
 ### PERFORMING ARTS
 
@@ -48,7 +53,6 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 &nbsp;
 
 ### MUSEOGRAPHY
-*2016 : Scenography of the exhibition of the fondation Bettencourt-Schueller _Chaire « Innovation & Savoir-faire »_
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 
 * 2011 : Internship at the production department of the museum Centre Pompidou, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
