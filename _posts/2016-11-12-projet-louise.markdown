@@ -1,8 +1,9 @@
 ---
-title: Projet louise
-date: 2016-11-12 21:19:00 Z
 layout: post
-preview: "../images/test.jpg"
+title: Projet louise
+date: 'Sat Nov 12 2016 22:19:00 GMT+0100 (CET)'
+preview: ../images/test.jpg
+published: false
 ---
 
 Test test test
