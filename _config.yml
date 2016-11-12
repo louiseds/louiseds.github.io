@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    preview: http://placehold.it/300x300
   uploads:
     title: Uploads
     output: true
