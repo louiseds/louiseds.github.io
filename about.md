@@ -4,11 +4,12 @@ permalink: "/about/"
 layout: page
 ---
 
-**Artist and stage designer **
+# Artist and stage designer
 
 Graduated from Ecole Nationale Supérieure des Arts Décoratifs, (EnsAD, Paris 5) and Duperré school of applied arts (ESAA, Paris 3)
-**
-PERFORMING ARTS**
+
+
+### PERFORMING ARTS
 ° 2016 : Stage designer for La Pythie, by Helène Lallemand, cie. L’Homme probable at the Bougival Theater.
 ° 2016 : Stage designer for 60°Nord, by Emmanuel Besnault at the National Conservatory (CnsAD), Paris.
 ° 2016 : Director and stage designer of Déviations, showed at the EnsAD and at the National school of Fine Arts (EnsBA), Paris.
