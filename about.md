@@ -22,7 +22,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 
 * 2016 : Direction workshop with Grand Magasin at the Nanterre-Amandier National Theater.
 
-* 2015 : Master thesis, _Ce qui arrive_(about the potentiel of accident in the performing arts), mention ‘‘very good’’, Paris.
+* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), mention ‘‘very good’’, Paris.
 
 * 2015 : Stage designer of _Avant mais juste après_ a play by Yvo Mentens at the National Conservatory (CnsAD), Paris. 
 
