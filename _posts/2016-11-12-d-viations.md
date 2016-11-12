@@ -3,8 +3,9 @@ layout: post
 title: Déviations
 date: 'Sat Nov 12 2016 23:23:00 GMT+0100 (CET)'
 published: true
-preview: 'http://placehold.it/300x300'
+preview: '![th_deviations.jpg]({{site.baseurl}}/images/th_deviations.jpg)'
 ---
+
 
 Spectacle monté en juin 2016 en collaboration avec Donald Choque et Yoann Le Goff.
 
