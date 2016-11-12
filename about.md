@@ -35,6 +35,5 @@ for the play Tage Unter led by Stéphane Braunschweig at the National Theatre of
 
 
 ### VIDEO
-° 2013 : Realization of Fall through, a sequence shot short film,
-EnsAD, Paris.
-° 2012 : Props and decorator assistant on the film shoot Aussi Loin of Franziska M. Hoenisch, Paris.
+° 2013 : Realization of Fall through, a sequence shot short film, EnsAD, Paris.
+° 2012 : Props and decorator assistant on the film shoot of Aussi Loin by Franziska M. Hoenisch, Paris.
