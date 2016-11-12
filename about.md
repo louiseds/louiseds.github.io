@@ -1,7 +1,8 @@
 ---
-title: About
-permalink: "/about/"
+title: Louise Douet-Sinenberg
+permalink: /about/
 layout: page
+published: true
 ---
 
 ## Artist and stage designer
