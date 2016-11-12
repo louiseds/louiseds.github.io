@@ -22,3 +22,31 @@ twitter_username: louisedouetsinenberg
 github_username: louiseds
 markdown: kramdown
 permalink: pretty
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://louiseds.github.io/'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "preview"
+        field:
+          element: "text"
+          value: "http://placehold.it/300x300"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
