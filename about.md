@@ -51,6 +51,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 <br>
 
 ### MUSEOGRAPHY
+
 * 2016 : Scenography of the exhibition of the fondation Bettencourt-Schueller _Chaire « Innovation & Savoir-faire »_, Paris.
 
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
@@ -62,6 +63,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 <br>
 
 ### VIDEO
+
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by Franziska M. Hoenisch, Paris.
