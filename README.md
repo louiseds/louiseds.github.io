@@ -1,3 +1,3 @@
 # LOUISE DOUET SINENBERG PORTFOLIO
 
-http://louiseds.github.io.com
+http://louiseds.github.io
