@@ -16,4 +16,4 @@ prose:
       - name: "preview"
         field:
           element: "text"
-          value: "post"
+          value: "http://placehold.it/300x300"
