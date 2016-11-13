@@ -4,8 +4,8 @@ permalink: /about/
 layout: page
 published: true
 ---
+![photoperso.jpg]({{site.baseurl}}/images/photoperso.jpg)
 
-![]({{site.baseurl}}/)
 
 Artist and stage designer born in Nantes (France) the 26 of april 1991.
 
