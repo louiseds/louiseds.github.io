@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Déviations
-date: 'Sat Nov 12 2016 23:23:00 GMT+0100 (CET)'
+date: 'Jun 24 2016 23:23:00 GMT+0100 (CET)'
 published: true
 preview: images/th_deviations.jpg
 ---
