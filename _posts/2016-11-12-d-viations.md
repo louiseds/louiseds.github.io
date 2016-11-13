@@ -8,7 +8,7 @@ preview: images/th_deviations.jpg
 
 
 Spectacle monté en juin 2016 en collaboration avec Donald Choque et Yoann Le Goff.
-
+Collectif [Bras Cassés](https://www.facebook.com/Bras-cass%C3%A9s-602177289949229/)
 
 Représentations à l'Ecole Nationale Supérieure des Arts Décoratifs de Paris et à l'Ecole des Beaux-Arts de Paris dans le cadre du festival _Ouverture de saison_.
 
@@ -82,7 +82,5 @@ Centré sur le corps, l’espace et le langage, le dispositif est un endroit per
  
 <br>
 
-
-Collectif [Bras Cassés](https://www.facebook.com/Bras-cass%C3%A9s-602177289949229/)
 
 (Crédit photos : Pernelle Popelin)
