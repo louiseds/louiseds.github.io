@@ -7,10 +7,10 @@ title: 'Après, mais juste avant'
 ---
 Scénographie en collaboration avec Juliette Minchin
 
-Spectacle monté en Mars 2015
+Spectacle monté en Mars 2015 au Théâtre du Conservatoire (CnsAD)
 
 Dirigé par Yvo Mentens
 
 Avec : Harrison Arevalo, Nacima Bekhtaoui, Laure Berend-Sagols, Valentine Catzéflis, Baptiste Drouillac, Zoé Fauconnet, Antoine Joly, Grégoire Lagrange, Clara Lama Schmit, Hannah Levin, Blandine Madec, Gall Paillat, Guillaume Pottier, Makita Samba, Antoine Sarrazin, Arthur Verret
 
-(Crédit photos : Christophe Raynaud de Lage) 
+(Crédit photos : Christophe Raynaud de Lage)
