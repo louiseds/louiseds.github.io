@@ -1,7 +1,7 @@
 ---
 layout: post
 preview: images/th_telecommande.jpg
-date: '2016-11-13 17:25 +0100'
+date: '2010-04-13 17:25 +0100'
 published: true
 title: Télécommande
 ---
