@@ -11,7 +11,7 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris 
 
 Graduated from _Duperré_ school of applied arts (ESAA, Paris 3rd), department environmental design.
 
-Erasmus semesters at the Weißensee Kunsthochschule (Berlin), department stage design and department sculpture.
+Erasmus semesters at the _Weißensee Kunsthochschule_ (Berlin), department stage design and department sculpture.
 <br>
  
 <br>
