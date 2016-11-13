@@ -1,7 +1,7 @@
 ---
 layout: post
 preview: images/th_apresmaisjusteavant.jpg
-date: '2016-11-13 00:24 +0100'
+date: '2014-03-01 00:24 +0100'
 published: true
 title: 'Après, mais juste avant'
 ---
