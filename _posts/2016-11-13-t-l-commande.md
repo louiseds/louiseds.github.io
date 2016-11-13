@@ -8,5 +8,6 @@ title: Télécommande
 ![th_telecommande.jpg]({{site.baseurl}}/images/th_telecommande.jpg)
 
 Installation pour film en plan séquence.
+En collaboration avec Justine Chaumont et Ferdinand Barbier.
 Saint-Remy, Avril 2010.
 
