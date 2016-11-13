@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_deviations.jpg
 date: '2016-11-13 20:38 +0100'
 published: false
 title: Déviations
