@@ -57,7 +57,6 @@ Graduated from _Ecole Nationale Supérieure des Arts Décoratifs_ , (EnsAD, Pari
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 
 * 2011 : Internship at the production department of the museum Centre Pompidou, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
-
 <br>
  
 <br>
