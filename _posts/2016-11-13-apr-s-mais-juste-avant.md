@@ -45,4 +45,4 @@ Avec : Harrison Arevalo, Nacima Bekhtaoui, Laure Berend-Sagols, Valentine Catzé
 
 (Crédit photos : Christophe Raynaud de Lage, Juliette Minchin, Goni Shifron)
 
-avec la collaboration de Juliette Minchin, Goni Shifron, Elise Courcol-Rozès, Sarah Schneider et Marie Bréon.
+Scénographie avec la collaboration de Juliette Minchin, Goni Shifron, Elise Courcol-Rozès, Sarah Schneider et Marie Bréon.
