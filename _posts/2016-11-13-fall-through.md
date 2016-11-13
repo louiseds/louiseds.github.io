@@ -5,7 +5,7 @@ date: '2016-11-13 15:32 +0100'
 published: false
 title: Fall through
 ---
-Fall through, un court métrage en plan séquence. ![]({{site.baseurl}}/images/th_fallthrough.jpg)![th_fallthrough.jpg]({{site.baseurl}}/images/th_fallthrough.jpg)
+Fall through, un court métrage en plan séquence. 
 
 
 Equipe : Goni Shifron, Julie Mahieu, Juliette Minchin.
