@@ -1,8 +1,8 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_chaire.jpg
 date: '2016-11-14 14:22 +0100'
-published: false
+published: true
 title: Chaire «Innovation & Savoir-faire»
 ---
 Scénographie pour l'exposition de la Fondation Bettencourt-Schueller _Chaire «Innovation & Savoir-faire»_
@@ -32,4 +32,3 @@ Rotonde de l'Ecole des Arts Décoratifs, Paris, Octobre 2016.
 ![ENSAD_INNO_VERNISSAGE_8475.jpg]({{site.baseurl}}/images/ENSAD_INNO_VERNISSAGE_8475.jpg)
 
 ![th_chaire.jpg]({{site.baseurl}}/images/th_chaire.jpg)
-
