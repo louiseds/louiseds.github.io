@@ -7,11 +7,11 @@ title: Chaire «Innovation & Savoir-faire»
 ---
 Scénographie pour l'exposition de la Fondation Bettencourt-Schueller _Chaire «Innovation & Savoir-faire»_
 
+![ENSAD_INNO_SCENO_8531.jpg]({{site.baseurl}}/images/ENSAD_INNO_SCENO_8531.jpg)
+
 En collaboration avec Donald Choque & Yoann Le Goff.
 
 Rotonde de l'Ecole des Arts Décoratifs, Paris, Octobre 2016.
-
-![ENSAD_INNO_SCENO_8531.jpg]({{site.baseurl}}/images/ENSAD_INNO_SCENO_8531.jpg)
 
 ![ENSAD_INNO_SCENO_8539.jpg]({{site.baseurl}}/images/ENSAD_INNO_SCENO_8539.jpg)
 
