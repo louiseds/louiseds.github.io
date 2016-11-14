@@ -31,4 +31,3 @@ Rotonde de l'Ecole des Arts Décoratifs, Paris, Octobre 2016.
 
 ![ENSAD_INNO_VERNISSAGE_8475.jpg]({{site.baseurl}}/images/ENSAD_INNO_VERNISSAGE_8475.jpg)
 
-![th_chaire.jpg]({{site.baseurl}}/images/th_chaire.jpg)
