@@ -19,7 +19,7 @@ As the visitors face the screen, they are being filmed. The projection works lik
 
 ![IMG_5235.JPG]({{site.baseurl}}/images/IMG_5235.JPG)
 
-![]({{site.baseurl}}/images/DSC_0717.JPG)![DSC_0717.JPG]({{site.baseurl}}/images/DSC_0717.JPG)
+![DSC_0717.JPG]({{site.baseurl}}/images/DSC_0717.JPG)
 
 ![IMG_5141.JPG]({{site.baseurl}}/images/IMG_5141.JPG)
 
