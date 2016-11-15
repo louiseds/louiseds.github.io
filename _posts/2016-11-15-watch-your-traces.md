@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_transmediale.jpg
 date: '2016-11-15 18:04 +0100'
 published: true
 title: Watch your traces
