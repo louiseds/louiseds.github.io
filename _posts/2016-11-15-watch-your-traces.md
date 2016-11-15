@@ -7,7 +7,7 @@ title: Watch your traces
 ---
 Digital installation
 
-Part of the Exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at the Haus der Kulturen der Welt : HKW, Berlin.
+Part of the Exhibition _Self-watching/Self-tracing_ in the festival **Transmediale 2015**, at the Haus der Kulturen der Welt : **HKW**, Berlin.
 
 ![IMG_5279.JPG]({{site.baseurl}}/images/IMG_5279.JPG)
 
@@ -26,6 +26,3 @@ As the visitors face the screen, they are being filmed. The projection works lik
 ![IMG_5145.JPG]({{site.baseurl}}/images/IMG_5145.JPG)
 
 ![DSC_0661.JPG]({{site.baseurl}}/images/DSC_0661.JPG)
-
-
-
