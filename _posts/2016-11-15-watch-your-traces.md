@@ -5,6 +5,7 @@ date: '2016-11-15 18:04 +0100'
 published: true
 title: Watch your traces
 ---
+![th_transmediale.jpg]({{site.baseurl}}/images/th_transmediale.jpg)
 Digital installation
 
 Part of the Exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at the Haus der Kulturen der Welt : HKW, Berlin.
