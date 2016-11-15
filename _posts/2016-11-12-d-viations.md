@@ -82,4 +82,4 @@ Centré sur le corps, l’espace et le langage, le dispositif est un endroit per
 <br>
 
 
-(Crédit photos : Pernelle Popelin)
+(Crédit photos : Pernelle Popelin, Yoann Le Goff)
