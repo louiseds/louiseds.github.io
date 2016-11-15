@@ -22,7 +22,7 @@ Erasmus semesters in 2014-2015 at the _Weißensee Kunsthochschule_ (Berlin), dep
 
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
 
-* 2016 : Director and stage designer of _Déviations_, showed at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival **Ouverture de saison**,  Paris.
+* 2016 : Director and stage designer of _Déviations_, showed at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
 
 * 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater.
 
@@ -54,7 +54,7 @@ Erasmus semesters in 2014-2015 at the _Weißensee Kunsthochschule_ (Berlin), dep
 
 ### Museography
 
-* 2016 : Scenography of the exhibition of the **fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
+* 2016 : Scenography of the exhibition of the **Fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
 
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 
