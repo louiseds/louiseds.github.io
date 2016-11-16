@@ -15,9 +15,7 @@ Réalisation d'un court métrage en plan séquence.
 ![mode-d-emploi-fin_o.jpg]({{site.baseurl}}/images/mode-d-emploi-fin_o.jpg)
 
 ![Capture-d_cran-2014-01-18--17.44.48_o.jpg]({{site.baseurl}}/images/Capture-d_cran-2014-01-18--17.44.48_o.jpg)
-
 ![Capture d’écran 2014-01-31 à 19.10.41.png]({{site.baseurl}}/images/Capture d’écran 2014-01-31 à 19.10.41.png)
-
 ![non_o.jpg]({{site.baseurl}}/images/non_o.jpg)
 
 ![IMG_8521_o.JPG]({{site.baseurl}}/images/IMG_8521_o.JPG)
