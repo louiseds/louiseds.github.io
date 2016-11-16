@@ -7,9 +7,9 @@ title: Les Marchands
 ---
 Proposition de scénographie pour _Les Marchands_, un texte de Joël Pommerat.
 EnsAD 2012.
+![Capture d’écran 2016-11-16 à 11.50.58.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.58.png)
 
 (English below) 
-
 _Les Marchands_ est un drame communautaire. Les protagonistes sont rassemblés par leur aliénation au travail. Une aliénation qui s’exprime dans la scénographie par l’angoisse du vide, de l’isolement, la peur de ne plus être englobé.
 Dans les premières scènes, le plateau est vide de tout élément matériel et est entouré d’un précipice. Le plateau est une zone de passage, de croisements. Seul le personnage de l’amie, qui ne travaille pas, a un espace dédié à l’avant scène, un espace délimité également par un vide, dont elle ne sortira jamais. Lorsqu’elle ne joue pas, elle végète au premier plan dans l’ombre de « _son appartement_ ». 
 
@@ -19,6 +19,13 @@ La fenêtre fonctionne comme une vue d’ascenseur, faisant défiler le paysage 
 La peur du vide, la peur de la chute, est inhérente au drame de cette communauté. Dès lors que des blocages apparaissent un par un dans l'histoire, des morceaux d’usine chutent et bloquent le plateau, ils sont d’abord subi par les personnages comme une contrainte, des obstacles. 
 Puis on assiste à l’évolution de l’attitude des ouvriers de passive à active vis-à-vis de la lente mort de leur usine. Ils vont progressivement utiliser les débris, les trier, les modifier et a fortiori les faire disparaître en les faisant tomber dans le précipice entourant le plateau. Le problème s’efface peu à peu... et chaque élément tombé puis disparu réapparaît instantanément à sa place originelle, dans le plafond. 
 Jusqu’à revenir au décor initial : l’usine ré-ouvre.
+
+![Capture d’écran 2016-11-16 à 11.37.15.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.37.15.png)
+
+![Capture d’écran 2016-11-16 à 11.50.56.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.56.png)
+![]({{site.baseurl}}/images/Capture%20d%E2%80%99e%CC%81cran%202016-11-16%20a%CC%80%2011.50.53.png)
+![Capture d’écran 2016-11-16 à 11.50.53.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.53.png)
+![Capture d’écran 2016-11-16 à 11.50.50.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.50.png)
 
 
 _Les Marchands_ (The Merchants). Text : Joël Pommerat.
