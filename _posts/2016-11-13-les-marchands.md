@@ -11,6 +11,7 @@ EnsAD 2012.
 ![Capture d’écran 2016-11-16 à 11.50.58.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.58.png)
 
 (English below) 
+
 _Les Marchands_ est un drame communautaire. Les protagonistes sont rassemblés par leur aliénation au travail. Une aliénation qui s’exprime dans la scénographie par l’angoisse du vide, de l’isolement, la peur de ne plus être englobé.
 Dans les premières scènes, le plateau est vide de tout élément matériel et est entouré d’un précipice. Le plateau est une zone de passage, de croisements. Seul le personnage de l’amie, qui ne travaille pas, a un espace dédié à l’avant scène, un espace délimité également par un vide, dont elle ne sortira jamais. Lorsqu’elle ne joue pas, elle végète au premier plan dans l’ombre de « _son appartement_ ». 
 
