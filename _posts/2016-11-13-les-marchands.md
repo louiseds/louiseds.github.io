@@ -14,6 +14,8 @@ EnsAD 2012.
 (English below) 
 
 _Les Marchands_ est un drame communautaire. Les protagonistes sont rassemblés par leur aliénation au travail. Une aliénation qui s’exprime dans la scénographie par l’angoisse du vide, de l’isolement, la peur de ne plus être englobé.
+Le texte est donné par une narratrice qui reconstitue les faits, les autres comédiens ne parlent pas.
+
 Dans les premières scènes, le plateau est vide de tout élément matériel et est entouré d’un précipice. Le plateau est une zone de passage, de croisements. Seul le personnage de l’amie, qui ne travaille pas, a un espace dédié à l’avant scène, un espace délimité également par un vide, dont elle ne sortira jamais. Lorsqu’elle ne joue pas, elle végète au premier plan dans l’ombre de « _son appartement_ ». 
 
 Au centre du dispositif : une fenêtre dans laquelle est vidéo-projetée une vidéo de l’extérieur. Cela indique de manière très réaliste le lieu de chaque scène par sa hauteur : appartement au 11ème étage, au 23ème étage, devant l’usine, hall d’immeuble, ... 
@@ -26,6 +28,7 @@ Jusqu’à revenir au décor initial : l’usine ré-ouvre.
 ![Capture d’écran 2016-11-16 à 12.13.15.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.13.15.png)![Capture d’écran 2016-11-16 à 12.05.57.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.05.57.png)
 ![Capture d’écran 2016-11-16 à 12.06.09.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.06.09.png)
 ![Capture d’écran 2016-11-16 à 12.14.48.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.14.48.png)
+
 
 ![Capture d’écran 2016-11-16 à 11.50.50.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.50.png)
 ![Capture d’écran 2016-11-16 à 11.50.56.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.56.png)
