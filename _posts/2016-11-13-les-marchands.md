@@ -26,11 +26,11 @@ Jusqu’à revenir au décor initial : l’usine ré-ouvre.
 ![Capture d’écran 2016-11-16 à 12.13.15.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.13.15.png)
 ![Capture d’écran 2016-11-16 à 12.05.57.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.05.57.png)
 ![Capture d’écran 2016-11-16 à 12.06.09.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.06.09.png)
+![Capture d’écran 2016-11-16 à 12.14.48.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.14.48.png)
 
 ![Capture d’écran 2016-11-16 à 11.50.50.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.50.png)
 ![Capture d’écran 2016-11-16 à 11.50.56.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.56.png)
 ![Capture d’écran 2016-11-16 à 11.50.53.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 11.50.53.png)
-
 
 _Les Marchands_ (The Merchants). Text : Joël Pommerat.
 This is the story of a group of workers alienated by their work. Text is given as
