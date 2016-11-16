@@ -23,4 +23,4 @@ Réalisation d'un court métrage en plan séquence.
 
 ![Capture-d_cran-2014-01-28--17.17.48_o.jpg]({{site.baseurl}}/images/Capture-d_cran-2014-01-28--17.17.48_o.jpg)
 
-Equipe : Goni Shifron, Julie Mahieu, Juliette Minchin.
+En collaboration avec : Goni Shifron, Julie Mahieu, Juliette Minchin.
