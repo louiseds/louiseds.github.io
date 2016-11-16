@@ -14,7 +14,7 @@ EnsAD 2012.
 (English below) 
 
 _Les Marchands_ est un drame communautaire. Les protagonistes sont rassemblés par leur aliénation au travail. Une aliénation qui s’exprime dans la scénographie par l’angoisse du vide, de l’isolement, la peur de ne plus être englobé.
-Le texte est donné par une narratrice sur scène, qui reconstitue les faits comme si elle témoignait de ce qui était arrivé dans cet endroit, les autres comédiens ne parlent pas.
+Le texte est donné par une narratrice sur scène, qui reconstitue les faits comme si elle témoignait de ce qui s'était passé dans cet endroit, les autres comédiens ne parlent pas.
 
 Dans les premières scènes, le plateau est vide de tout élément matériel et est entouré d’un précipice. Le plateau est une zone de passage, de croisements. Seul le personnage de l’amie, qui ne travaille pas, a un espace dédié à l’avant scène, un espace délimité également par un vide, dont elle ne sortira jamais. Lorsqu’elle ne joue pas, elle végète au premier plan dans l’ombre de « _son appartement_ ». 
 
