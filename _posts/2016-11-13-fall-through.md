@@ -11,7 +11,7 @@ Réalisation d'un court métrage en plan séquence.
 
 **Fall through** est une expérience visuelle traversant des espaces sans repères. Les éléments s’agitent, la gravité s’inverse, la lumière lutte pour percer. Happés dans une abîme par des forces telluriques, nous perdons contrôle sur notre environnement. Enfermés sous terre, nous tentons de nous échapper.
 
-Systeme pour le plan séquence : 
+**Systeme conçu pour le plan séquence :**
 ![mode-d-emploi-fin_o.jpg]({{site.baseurl}}/images/mode-d-emploi-fin_o.jpg)
 
 ![Capture-d_cran-2014-01-18--17.44.48_o.jpg]({{site.baseurl}}/images/Capture-d_cran-2014-01-18--17.44.48_o.jpg)
