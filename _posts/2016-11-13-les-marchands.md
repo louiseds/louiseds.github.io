@@ -23,8 +23,7 @@ La peur du vide est inhérente au drame de cette communauté, la chute menace en
 Puis on assiste à l’évolution de l’attitude des ouvriers de passive à active vis-à-vis de la lente mort de leur usine. Ils vont progressivement utiliser les débris, les trier, les modifier et a fortiori les faire disparaître en les faisant tomber dans le précipice entourant le plateau. Le problème s’efface peu à peu... et chaque élément tombé puis disparu réapparaît instantanément à sa place originelle, dans le plafond. 
 Jusqu’à revenir au décor initial : l’usine ré-ouvre.
 
-![Capture d’écran 2016-11-16 à 12.13.15.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.13.15.png)
-![Capture d’écran 2016-11-16 à 12.05.57.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.05.57.png)
+![Capture d’écran 2016-11-16 à 12.13.15.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.13.15.png)![Capture d’écran 2016-11-16 à 12.05.57.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.05.57.png)
 ![Capture d’écran 2016-11-16 à 12.06.09.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.06.09.png)
 ![Capture d’écran 2016-11-16 à 12.14.48.png]({{site.baseurl}}/images/Capture d’écran 2016-11-16 à 12.14.48.png)
 
