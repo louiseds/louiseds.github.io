@@ -13,6 +13,8 @@ En collaboration avec Donald Choque & Yoann Le Goff.
 
 Rotonde de l'Ecole des Arts Décoratifs, Paris, Octobre 2016.
 
+![Capture d’écran 2016-11-18 à 00.03.01.png]({{site.baseurl}}/images/Capture d’écran 2016-11-18 à 00.03.01.png)
+
 ![ENSAD_INNO_SCENO_8539.jpg]({{site.baseurl}}/images/ENSAD_INNO_SCENO_8539.jpg)
 
 ![ENSAD_INNO_SCENO_8543b.jpg]({{site.baseurl}}/images/ENSAD_INNO_SCENO_8543b.jpg)
@@ -31,3 +33,4 @@ Rotonde de l'Ecole des Arts Décoratifs, Paris, Octobre 2016.
 
 ![ENSAD_INNO_VERNISSAGE_8475.jpg]({{site.baseurl}}/images/ENSAD_INNO_VERNISSAGE_8475.jpg)
 
+(Crédits photos : Camille Gharbi)
