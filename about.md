@@ -54,7 +54,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
 
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
 
-* 2013 : Technical team for Sylvia Schildge’s project on the event La **Nuit Blanche**, Paris.
+* 2013 : Technical team for Sylvia Schildge’s project on the event **La Nuit Blanche**, Paris.
 <br>
  
 <br>
