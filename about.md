@@ -8,7 +8,8 @@ published: true
 Artist and stage designer born in Nantes (France) April, 26th 1991.
 
 ![about-bandeau.jpg]({{site.baseurl}}/images/about-bandeau.jpg)
-(français en dessous)
+
+_(français en dessous)_
 
 ## **Academics**
 
