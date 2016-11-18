@@ -5,64 +5,12 @@ layout: page
 published: true
 ---
 
-Artist and stage designer born in Nantes (France) April, 26th 1991.
+Artiste et scénographe née à Nantes (France), le 26 avril 1991.
 
 ![about-bandeau.jpg]({{site.baseurl}}/images/about-bandeau.jpg)
 
-_(français en dessous)_
+_(english below)_
 
-## **Academics**
-
-* 2016 : Graduated in Stage Design from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris). 
-* 2014-2015 : Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ (Berlin).
-* 2012 : Graduated in Environmental Design from _Duperré_ school of applied arts (ESAA, Paris).
-<br>
- 
-<br>
-
-## **Experience**
-
-### Performing arts
-
-* 2016 : Stage designer of _La Pythie_, a play by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
-* 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
-* 2016 : Director and stage designer of _Déviations_, shown at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
-* 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater.
-* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), passed with distinction, Paris.
-* 2015 : Stage designer of _Après mais juste avant_ a play by **Yvo Mentens** at the National Conservatory (CnsAD), Paris. 
-* 2014 : Stage designer assistant for _The Past_, directed by **Constanza Macras**, cie. Dorkyparks, produced by Hellerau and Schaubühne, Dresden and Berlin.
-* 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by **Thomas Ostermeier**, Schaubühne, Berlin.
-* 2014 : Director and stage designer of _UMR.6155_, a performance at the BNF for the festival _Evénements spectaculaires_, Paris.
-* 2012 : Direction workshop with **Philippe Quesne** at the T2G, Gennevilliers.
-* 2012 : Winner of the school competition on stage design projects for the play _Tage Unter_ led by **Stéphane Braunschweig** at the National Theatre of La Colline, Paris.
-<br>
- 
-<br>
-
-### Installations
-
-* 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
-* 2013 : Technical team for Sylvia Schildge’s project on the event **La Nuit Blanche**, Paris.
-<br>
- 
-<br>
-
-### Museum
-
-* 2016 : Scenography of the exhibition of the **Fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
-* 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
-* 2011 : Internship at the production department of the museum **Centre Pompidou**, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
-<br>
- 
-<br>
-
-### Videos
-
-* 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
-* 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
-
-
-![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
 
 
 ## **Formation**
@@ -113,3 +61,57 @@ _(français en dessous)_
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
 
+
+![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
+Artist and stage designer born in Nantes (France) April, 26th 1991.
+
+
+## **Academics**
+
+* 2016 : Graduated in Stage Design from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris). 
+* 2014-2015 : Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ (Berlin).
+* 2012 : Graduated in Environmental Design from _Duperré_ school of applied arts (ESAA, Paris).
+<br>
+ 
+<br>
+
+## **Experience**
+
+### Performing arts
+
+* 2016 : Stage designer of _La Pythie_, a play by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
+* 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
+* 2016 : Director and stage designer of _Déviations_, shown at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
+* 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater.
+* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), passed with distinction, Paris.
+* 2015 : Stage designer of _Après mais juste avant_ a play by **Yvo Mentens** at the National Conservatory (CnsAD), Paris. 
+* 2014 : Stage designer assistant for _The Past_, directed by **Constanza Macras**, cie. Dorkyparks, produced by Hellerau and Schaubühne, Dresden and Berlin.
+* 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by **Thomas Ostermeier**, Schaubühne, Berlin.
+* 2014 : Director and stage designer of _UMR.6155_, a performance at the BNF for the festival _Evénements spectaculaires_, Paris.
+* 2012 : Direction workshop with **Philippe Quesne** at the T2G, Gennevilliers.
+* 2012 : Winner of the school competition on stage design projects for the play _Tage Unter_ led by **Stéphane Braunschweig** at the National Theatre of La Colline, Paris.
+<br>
+ 
+<br>
+
+### Installations
+
+* 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
+* 2013 : Technical team for Sylvia Schildge’s project on the event **La Nuit Blanche**, Paris.
+<br>
+ 
+<br>
+
+### Museum
+
+* 2016 : Scenography of the exhibition of the **Fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
+* 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
+* 2011 : Internship at the production department of the museum **Centre Pompidou**, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
+<br>
+ 
+<br>
+
+### Videos
+
+* 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
+* 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
