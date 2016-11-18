@@ -50,7 +50,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
  
 <br>
 
-### Installation
+### Installations
 
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
 
@@ -59,7 +59,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
  
 <br>
 
-### Museography
+### Museum
 
 * 2016 : Scenography of the exhibition of the **Fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
 
@@ -70,7 +70,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
  
 <br>
 
-### Video
+### Videos
 
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 
