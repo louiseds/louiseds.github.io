@@ -16,7 +16,6 @@ _(français en dessous)_
 * 2016 : Graduated in Stage Design from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris). 
 * 2014-2015 : Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ (Berlin).
 * 2012 : Graduated in Environmental Design from _Duperré_ school of applied arts (ESAA, Paris).
-
 <br>
  
 <br>
