@@ -74,6 +74,7 @@ Artist and stage designer born in Nantes (France) April, 26th 1991.
 <br>
 
 ## **Expérience**
+
 ### Arts vivants
 
 * 2016 : Scénographe pour _La Pythie_ une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre Bougival.
