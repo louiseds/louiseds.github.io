@@ -18,6 +18,7 @@ Erasmus semesters in 2014-2015 at the _Weißensee Kunsthochschule_ (Berlin), dep
 <br>
 
 ## EXPERIENCE
+
 ### Performing arts
 
 * 2016 : Stage designer of _La Pythie_, a play by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
