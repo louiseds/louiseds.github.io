@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '           '
 permalink: /about/
 layout: page
 published: true
