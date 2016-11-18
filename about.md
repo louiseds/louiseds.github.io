@@ -11,11 +11,11 @@ Artist and stage designer born in Nantes (France) April, 26th 1991.
 
 ## **Academics**
 
-* 2016 :Graduated in Stage Design from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris). 
+* 2016 : Graduated in Stage Design from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris). 
 
-* 2012 :Graduated in Environmental Design from _Duperré_ school of applied arts (ESAA, Paris).
+* 2012 : Graduated in Environmental Design from _Duperré_ school of applied arts (ESAA, Paris).
 
-* 2014-2015 :Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ (Berlin).
+* 2014-2015 : Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ (Berlin).
 <br>
  
 <br>
@@ -76,5 +76,3 @@ Artist and stage designer born in Nantes (France) April, 26th 1991.
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
 
 ![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
-
-
