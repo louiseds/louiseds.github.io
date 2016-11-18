@@ -9,7 +9,7 @@ Artiste et scénographe née à Nantes (France), le 26 avril 1991.
 
 ![about-bandeau.jpg]({{site.baseurl}}/images/about-bandeau.jpg)
 
-_(english below)_
+_(English version below)_
 
 
 
