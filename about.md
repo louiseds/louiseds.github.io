@@ -105,6 +105,9 @@ Artist and stage designer born in Nantes (France) April, 26th 1991.
 * 2016 : Scénographe de l'exposition des oeuvres de la _Chaire Innovation & savoir-faire_ de la **Fondation Bettencourt-Schueller** 
 * 2013 : Scénographe de l’exposition _Géant_, Galerie Beaurepaire, Paris.
 * 2011 : Stagiaire à la Direction de production, service architecture du **Centre Pompidou**, Paris. (Assistante scénographie sur les expositions : Gerhard Richter, Brancusi, Cabinet d’art graphique et prix Marcel Duchamps.)
+<br>
+ 
+<br>
 
 ### Vidéos
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
