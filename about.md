@@ -14,8 +14,8 @@ _(English version below)_
 
 
 ## **Formation**
-* 2016 : Diplôme de scénographie, É_cole Nationale Supérieure des Arts Décoratifs_ (EnsAD), Paris.
-* 2014-2015 : Échange d’un semestre à la _Weissenßee Kunstschule_, Berlin.
+* 2016 : Diplôme de scénographie, _École Nationale Supérieure des Arts Décoratifs_ (EnsAD), Paris.
+* 2014-2015 : Échange Erasmus à la _Weissenßee Kunstschule_, secteur sculpture et secteur scénographie, Berlin.
 * 2012 : BTS Design d’espace, École _Duperré_ (EsAA), Paris.
 <br>
  
