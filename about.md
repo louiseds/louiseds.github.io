@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Artist and stage designer born in Nantes (France) the 26 of april 1991.
+Artist and stage designer born in Nantes (France) April, 26th 1991.
 
 
 
