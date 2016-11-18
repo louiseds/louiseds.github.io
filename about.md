@@ -7,7 +7,10 @@ published: true
 
 Artist and stage designer born in Nantes (France) the 26 of april 1991.
 
+
+
 ## **Academics**
+
 Graduated in 2016 from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris 5th), departement stage design.
 
 Graduated in 2012 from _Duperré_ school of applied arts (ESAA, Paris 3rd), department environmental design.
