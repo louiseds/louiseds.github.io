@@ -33,7 +33,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
 
 * 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater.
 
-* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), mention ‘‘very good’’, Paris.
+* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), passed with distinction, Paris.
 
 * 2015 : Stage designer of _Après mais juste avant_ a play by **Yvo Mentens** at the National Conservatory (CnsAD), Paris. 
 
