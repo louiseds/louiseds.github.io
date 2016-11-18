@@ -21,6 +21,8 @@ Installation / vidéo en plan séquence.
 
 ![Capture d’écran 2016-11-18 à 15.48.25.png]({{site.baseurl}}/images/Capture d’écran 2016-11-18 à 15.48.25.png)
 
+![Capture d’écran 2016-11-18 à 15.56.58.png]({{site.baseurl}}/images/Capture d’écran 2016-11-18 à 15.56.58.png)
+
 En collaboration avec Justine Chaumont et Ferdinand Barbier.
 Saint-Remy, Avril 2010.
 
