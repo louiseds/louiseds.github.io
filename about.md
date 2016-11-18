@@ -11,11 +11,12 @@ Artist and stage designer born in Nantes (France) April, 26th 1991.
 
 ## **Academics**
 
-Graduated in 2016 from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris 5th), departement stage design.
+Graduated in Stage Design from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris) in 2016. 
 
-Graduated in 2012 from _Duperré_ school of applied arts (ESAA, Paris 3rd), department environmental design.
+Graduated in Environmental Design from _Duperré_ school of applied arts (ESAA, Paris) in 2012.
 
-Erasmus semesters in 2014-2015 at the _Weißensee Kunsthochschule_ (Berlin), department stage design and department sculpture.
+Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ (Berlin) in 2014-2015.
+
 <br>
  
 <br>
