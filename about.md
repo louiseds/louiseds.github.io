@@ -39,7 +39,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
 
 * 2014 : Stage designer assistant for _The Past_, directed by **Constanza Macras**, cie. Dorkyparks, produced by Hellerau and Schaubühne, Dresden and Berlin.
 
-* 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by **Thomas Ostermeier**, produced by the Schaubühne, Berlin.
+* 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by **Thomas Ostermeier**, Schaubühne, Berlin.
 
 * 2014 : Director and stage designer of _UMR.6155_, a performance at the BNF for the festival _Evénements spectaculaires_, Paris.
 
