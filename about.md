@@ -7,6 +7,7 @@ published: true
 
 Artist and stage designer born in Nantes (France) the 26 of april 1991.
 
+### Academics
 Graduated in 2016 from _Ecole Nationale Supérieure des Arts Décoratifs_ (EnsAD, Paris 5th), departement stage design.
 
 Graduated in 2012 from _Duperré_ school of applied arts (ESAA, Paris 3rd), department environmental design.
@@ -16,6 +17,7 @@ Erasmus semesters in 2014-2015 at the _Weißensee Kunsthochschule_ (Berlin), dep
  
 <br>
 
+## EXPERIENCE
 ### Performing arts
 
 * 2016 : Stage designer of _La Pythie_, a play by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
