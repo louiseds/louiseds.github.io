@@ -7,7 +7,7 @@ published: true
 
 Artist and stage designer born in Nantes (France) April, 26th 1991.
 
-
+![about-bandeau.jpg]({{site.baseurl}}/images/about-bandeau.jpg)
 
 ## **Academics**
 
@@ -74,3 +74,7 @@ Erasmus semesters in Stage Design and Sculpture at _Weißensee Kunsthochschule_ 
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
+
+![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
+
+
