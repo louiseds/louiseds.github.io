@@ -50,7 +50,7 @@ _(English version below)_
 
 ### Scénographie d'exposition
 
-* 2016 : Scénographe de l'exposition des oeuvres de la _Chaire Innovation & savoir-faire_ de la **Fondation Bettencourt-Schueller** 
+* 2016 : Scénographe de l'exposition des oeuvres de la _Chaire Innovation & savoir-faire_ de la **Fondation Bettencourt-Schueller**, Paris.
 * 2013 : Scénographe de l’exposition _Géant_, Galerie Beaurepaire, Paris.
 * 2011 : Stagiaire à la Direction de production, service architecture du **Centre Pompidou**, Paris. (Assistante scénographie sur les expositions : Gerhard Richter, Brancusi, Cabinet d’art graphique et prix Marcel Duchamps.)
 <br>
