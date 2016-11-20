@@ -27,7 +27,7 @@ _(English version below)_
 
 * 2016 : Scénographe pour _La Pythie_ une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre Bougival.
 * 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD).
-* 2016 : Metteur en scène et scénographe pour _Déviations_, présenté à l’EnsAD et au Festival _Ouverture de Saison_ de l’École des Beaux-Arts (EnsBA) de Paris.
+* 2016 : Metteur en scène et scénographe de _Déviations_, un spectacle présenté à l’EnsAD et au Festival _Ouverture de Saison_ de l’École des Beaux-Arts (EnsBA) de Paris.
 * 2016 : Workshop de mise en scène avec **Grand Magasin** au théâtre Nanterre-Amandiers, Nanterre.
 * 2015 : Mémoire de master, _Ce qui arrive_(sur le potentiel d’accident dans le spectacle vivant), mention très bien, Paris.
 * 2015 : Scénographe pour _Avant mais juste après_, un spectacle mis en scène par **Yvo Mentens** au CnsAD, Paris.
