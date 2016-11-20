@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Artiste et scénographe née à Nantes (France), le 26 avril 1991.
+Louise Douet-Sinenberg est une artiste et scénographe née à Nantes (France), le 26 avril 1991.
 
 ![about-bandeau.jpg]({{site.baseurl}}/images/about-bandeau.jpg)
 
@@ -63,7 +63,8 @@ _(English version below)_
 
 
 ![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
-Artist and stage designer born in Nantes (France) April, 26th 1991.
+
+Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) April, 26th 1991.
 
 
 ## **Academics**
