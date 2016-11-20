@@ -84,7 +84,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
 * 2016 : Director and stage designer of _Déviations_, shown at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
 * 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater, Nanterre.
-* 2015 : Master thesis, _Ce qui arrive_ (about the potentiel of accident in the performing arts), passed with distinction, Paris.
+* 2015 : Master thesis, _Ce qui arrive_ (about the potential of accident in the performing arts), passed with distinction, Paris.
 * 2015 : Stage designer of _Après mais juste avant_ a play by **Yvo Mentens** at the National Conservatory (CnsAD), Paris. 
 * 2014 : Stage designer assistant for _The Past_, directed by **Constanza Macras**, cie. Dorkyparks, produced by Hellerau and Schaubühne, Dresden and Berlin.
 * 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by **Thomas Ostermeier**, Schaubühne, Berlin.
