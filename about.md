@@ -30,7 +30,7 @@ _(English version below)_
 * 2016 : Metteur en scène et scénographe de _Déviations_, un spectacle présenté à l’EnsAD et au Festival _Ouverture de Saison_ de l’École des Beaux-Arts (EnsBA) de Paris.
 * 2016 : Workshop de mise en scène avec **Grand Magasin** au théâtre Nanterre-Amandiers, Nanterre.
 * 2015 : Mémoire de master, _Ce qui arrive_(sur le potentiel d’accident dans le spectacle vivant), mention très bien, Paris.
-* 2015 : Scénographe pour _Avant mais juste après_, un spectacle mis en scène par **Yvo Mentens** au CnsAD, Paris.
+* 2015 : Scénographe pour _Après mais juste avant_, un spectacle mis en scène par **Yvo Mentens** au Conservatoire National (CnsAD), Paris.
 * 2014 : Assistante scénographe pour _The Past_, un spectacle mis en scène par **Constanza Macras**, cie. Dorkyparks, produit par Hellerau et la Schaubühne, Berlin.
 * 2014 : Assistante scénographe pour _Die Ehe der Maria Braun_, une pièce mise en scène par **Thomas Ostermeier**, produite pour le Festival d’Avignon à la Schaubühne, Berlin.
 * 2014 : Metteur en scène et scénographe de _UMR.6155_, une performance à la BNF dans le cadre des _Evènements Spectaculaires_, Paris.
