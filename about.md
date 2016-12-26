@@ -26,8 +26,8 @@ _(English version below)_
 ### Arts vivants
 
 * 2016 : Assistante scénographe pour _Gulliver_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de La Colline, Paris.
-* 2016 : Scénographe pour _La Pythie_, une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre Bougival.
-* 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD).
+* 2016 : Scénographe pour _La Pythie_, une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre de Bougival.
+* 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD), Paris.
 * 2016 : Metteur en scène et scénographe de _Déviations_, un spectacle présenté à l’EnsAD et au Festival _Ouverture de Saison_ de l’École des Beaux-Arts (EnsBA) de Paris.
 * 2016 : Workshop de mise en scène avec **Grand Magasin** au théâtre Nanterre-Amandiers, Nanterre.
 * 2015 : Mémoire de master, _Ce qui arrive_ (sur le potentiel d’accident dans le spectacle vivant), mention très bien, Paris.
