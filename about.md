@@ -25,6 +25,7 @@ _(English version below)_
 
 ### Arts vivants
 
+* 2016 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
 * 2016 : Assistante scénographe pour _Gulliver_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de La Colline, Paris.
 * 2016 : Scénographe pour _La Pythie_, une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre de Bougival.
 * 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD), Paris.
