@@ -25,7 +25,7 @@ _(English version below)_
 
 ### Arts vivants
 
-* 2016 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
+* 2017 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
 * 2016 : Assistante scénographe pour _Gulliver_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de La Colline, Paris.
 * 2016 : Scénographe pour _La Pythie_, une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre de Bougival.
 * 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD), Paris.
@@ -82,7 +82,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 
 ### Performing arts
 
-* 2016 : Stage designer assistant for _Mesure pour Mesure_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
+* 2017 : Stage designer assistant for _Mesure pour Mesure_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
 * 2016 : Stage designer assistant for _Gulliver_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the National Theatre of La Colline, Paris. 
 * 2016 : Stage designer of _La Pythie_, a play by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
