@@ -24,7 +24,7 @@ _(English version below)_
 ## **Expérience**
 
 ### Arts vivants
-
+* 2017 : Scénographe pour _Le Palace de Remi_, une pièce mise en scène par **Judith de Laubier**, cie. Laïka présentée et en résidence à La Générale (Festival L'Eveil du Printemps), au Sureau, au Doc et au 104, Paris.
 * 2017 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
 * 2016 : Assistante scénographe pour _Gulliver_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de La Colline, Paris.
 * 2016 : Scénographe pour _La Pythie_, une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre de Bougival.
