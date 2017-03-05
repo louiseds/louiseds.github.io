@@ -81,10 +81,10 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ## **Experience**
 
 ### Performing arts
-
-* 2017 : Stage designer assistant for _Mesure pour Mesure_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
+* 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka showed and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc and at the 104, Paris.
+* 2017 : Stage designer assistant for _Mesure pour Mesure_, a play directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
 * 2016 : Stage designer assistant for _Gulliver_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the National Theatre of La Colline, Paris. 
-* 2016 : Stage designer of _La Pythie_, a play by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
+* 2016 : Stage designer of _La Pythie_, a play written and directed by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
 * 2016 : Director and stage designer of _Déviations_, shown at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
 * 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater, Nanterre.
