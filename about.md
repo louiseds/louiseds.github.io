@@ -26,6 +26,7 @@ _(English version below)_
 ### Arts vivants
 * 2017 : Scénographe pour _Le Palace de Remi_, une pièce mise en scène par **Judith de Laubier**, cie. Laïka présentée et en résidence à La Générale (Festival L'Eveil du Printemps), au Sureau, au Doc et au 104, Paris.
 * 2017 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
+* 2016-2017 : Assistante du scénographe **Mathieu Lorry-Dupuy**.
 * 2016 : Assistante scénographe pour _Gulliver_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de La Colline, Paris.
 * 2016 : Scénographe pour _La Pythie_, une pièce mise en scène par **Helène Lallemand**, cie. L’Homme probable au Théâtre de Bougival.
 * 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD), Paris.
@@ -83,6 +84,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ### Performing arts
 * 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka showed and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc and at the 104, Paris.
 * 2017 : Stage designer assistant for _Mesure pour Mesure_, a play directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
+* 2016-2017 : Assistant of the stage designer **Mathieu Lorry-Dupuy**.
 * 2016 : Stage designer assistant for _Gulliver_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the National Theatre of La Colline, Paris. 
 * 2016 : Stage designer of _La Pythie_, a play written and directed by **Helène Lallemand**, cie. L’Homme probable at the Bougival Theater.
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
