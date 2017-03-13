@@ -1,12 +1,13 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_palace.jpg
 date: '2017-03-13 13:52 +0100'
 published: false
 title: Le Palace de Rémi
 ---
 ## Scénographie
 
+![Capture d’écran 2017-03-13 à 14.01.50.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.01.50.png)
 
 - Spectacle en cours de création -
 
@@ -28,9 +29,16 @@ Assistante à la mise en scène : Nicole Stankiewicz
 
 
 
-
 Ferdinand vit dans une cave avec pour seule compagnie ses plantes et sa voisine Juliette. Ensemble, ils créent un groupe et se lancent dans une quête musicale et encyclopédique.
 
 Plus qu’un espace de repli, la cave de Ferdinand est un pendant moderne de la caverne, un endroit où l’on peut observer les ombres du monde extérieur. Un espace obscur et à côté du monde dans lequel on peut s’inventer des univers à soi, former des images. 
 
 A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse précaire et casanière qui bricole avec les outils technologiques pour inventer de nouveaux langages, de nouveaux rapports.
+
+
+![Capture d’écran 2017-03-13 à 14.03.59.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.59.png)
+
+Répétitions et montage : 
+![]({{site.baseurl}}/images/Capture%20d%E2%80%99e%CC%81cran%202017-03-13%20a%CC%80%2014.03.39.png)![Capture d’écran 2017-03-13 à 14.03.39.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.39.png)
+![Capture d’écran 2017-03-13 à 14.04.09.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.04.09.png)
+![17155627_10155011475035053_1198638522037914523_n.jpg]({{site.baseurl}}/images/17155627_10155011475035053_1198638522037914523_n.jpg)
