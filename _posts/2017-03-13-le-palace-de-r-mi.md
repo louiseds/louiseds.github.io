@@ -24,10 +24,15 @@ Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU
 ![Capture d’écran 2017-03-13 à 14.02.44.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.02.44.png)
 
 Avec Ferdinand Niquet-Rioux, Juliette Hubert et Cyril Brossard
+
 Mise en scène : Judith de Laubier
+
 Dramaturgie : Lea Tarral
+
 Création sonore : Cyril Brossard
+
 Assistante à la mise en scène : Nicole Stankiewicz
+
 
 ![Capture d’écran 2017-03-13 à 14.03.10.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.10.png)
 
