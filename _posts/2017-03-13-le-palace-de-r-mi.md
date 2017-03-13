@@ -5,7 +5,7 @@ date: '2017-03-13 13:52 +0100'
 published: true
 title: Le Palace de Rémi
 ---
-## Scénographie
+Scénographie
 
 ![Capture d’écran 2017-03-13 à 14.01.50.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.01.50.png)
 
