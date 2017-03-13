@@ -9,7 +9,7 @@ title: Le Palace de Rémi
 
 ![Capture d’écran 2017-03-13 à 14.01.50.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.01.50.png)
 
- -  Spectacle en cours de création  -
+  /  Spectacle en cours de création  /
 
 Présentation de maquette :
 
