@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_palace.jpg
 date: '2017-03-13 13:52 +0100'
-published: false
+published: true
 title: Le Palace de Rémi
 ---
 ## Scénographie
