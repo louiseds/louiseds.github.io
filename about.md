@@ -62,7 +62,7 @@ _(English version below)_
 <br>
 
 ### Vidéos
-* 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital paris Maison blanche, Paris. (projet en cours)
+* 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital Maison blanche, Paris. (projet en cours)
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
 
@@ -84,6 +84,8 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ## **Experience**
 
 ### Performing arts
+
+* 2017 : Stage designer assistant for _La princesse Maleine_ a play directed by **Pascal Kirsch**, cie. Théâtre de Lethé, showed at the Festival d'Avignon 2017, Avignon.
 * 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka showed and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc and at the 104, Paris.
 * 2017 : Stage designer assistant for _Mesure pour Mesure_, a play directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
 * 2016-2017 : Assistant of the stage designer **Mathieu Lorry-Dupuy**.
@@ -122,5 +124,6 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 
 ### Videos
 
+* 2017 : Realization of _Centre_, a short film about and with the members of the CATTP Centre Carpeaux, Hospital Maison Blanche, Paris.
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
