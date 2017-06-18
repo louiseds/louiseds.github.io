@@ -24,6 +24,7 @@ _(English version below)_
 ## **Expérience**
 
 ### Arts vivants
+* 2017 : Assistante scénographe pour _La princesse Maleine_, une pièce mise en scène par **Pascal Kirsch**, cie. Théâtre de Lethé, au Festival d'Avignon 2017, Avignon.
 * 2017 : Scénographe pour _Le Palace de Remi_, une pièce mise en scène par **Judith de Laubier**, cie. Laïka présentée et en résidence à La Générale (Festival L'Eveil du Printemps), au Sureau, au Doc et au 104, Paris.
 * 2017 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
 * 2016-2017 : Assistante du scénographe **Mathieu Lorry-Dupuy**.
@@ -61,6 +62,7 @@ _(English version below)_
 <br>
 
 ### Vidéos
+* 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital paris Maison blanche, Paris. (projet en cours)
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
 
