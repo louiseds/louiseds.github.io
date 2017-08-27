@@ -24,7 +24,7 @@ _(English version below)_
 ## **Expérience**
 
 ### Arts vivants
-* 2017-2018 : Scénographe pour _Lotterie Solaire*(titre provisoire)_ une pièce adaptée (du roman de P.K.Dick) et mise en scène par **Mathilde Gentil**, Gosh Cie, Paris. 
+* 2017-2018 : Scénographe pour _Lotterie Solaire*(titre provisoire)_ une pièce écrite (d'après le roman de P.K.Dick) et mise en scène par **Mathilde Gentil**, Gosh Cie, Paris. 
 * 2017 : Assistante scénographe pour _La princesse Maleine_, une pièce mise en scène par **Pascal Kirsch**, cie. Théâtre de Lethé, au Festival d'Avignon 2017, Avignon.
 * 2017 : Scénographe pour le concert d'**Eric Lemuet** au Supersonic, Paris.
 * 2017 : Scénographe pour _Le Palace de Remi_, une pièce mise en scène par **Judith de Laubier**, cie. Laïka présentée et en résidence à La Générale (Festival L'Eveil du Printemps), au Sureau, au Doc, au Montvalent-Montvalent festival, au Théâtre de la parole errante et au 104, Paris.
