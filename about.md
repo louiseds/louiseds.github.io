@@ -27,7 +27,7 @@ _(English version below)_
 * 2017-2018 : Scénographe pour _Lotterie Solaire*(titre provisoire)_ une pièce adaptée (du roman de P.K.Dick) et mise en scène par **Mathilde Gentil**, Gosh Cie, Paris. 
 * 2017 : Assistante scénographe pour _La princesse Maleine_, une pièce mise en scène par **Pascal Kirsch**, cie. Théâtre de Lethé, au Festival d'Avignon 2017, Avignon.
 * 2017 : Scénographe pour le concert d'**Eric Lemuet** au Supersonic, Paris.
-* 2017 : Scénographe pour _Le Palace de Remi_, une pièce mise en scène par **Judith de Laubier**, cie. Laïka présentée et en résidence à La Générale (Festival L'Eveil du Printemps), au Sureau, au Doc et au 104, Paris.
+* 2017 : Scénographe pour _Le Palace de Remi_, une pièce mise en scène par **Judith de Laubier**, cie. Laïka présentée et en résidence à La Générale (Festival L'Eveil du Printemps), au Sureau, au Doc, au Montvalent-Montvalent festival, au Théâtre de la parole errante et au 104, Paris.
 * 2017 : Assistante scénographe pour _Mesure pour Mesure_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de Vidy, Lausanne.
 * 2016-2017 : Assistante du scénographe **Mathieu Lorry-Dupuy**.
 * 2016 : Assistante scénographe pour _Gulliver_, une pièce mise en scène par **Karim Bel Kacem**, cie. Think Tank Théâtre, au Théâtre de La Colline, Paris.
@@ -90,7 +90,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 * 2017-2018 : Stage designer for _Solar Lottery_ a digital performance adapted (from P.K.Dick's novel) and directed by **Mathilde Gentil**, Gosh cie., Paris.
 * 2017 : Stage designer assistant for _La princesse Maleine_ a play directed by **Pascal Kirsch**, cie. Théâtre de Lethé, showed at the Festival d'Avignon 2017, Avignon.
 * 2017 : Stage designer for the music concert of **Eric Lemuet** at the Supersonic, Paris.
-* 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka showed and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc and at the 104, Paris.
+* 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka showed and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc, Montvalent-Montvalent festival, at the Théâtre de la parole errante and at the 104, Paris.
 * 2017 : Stage designer assistant for _Mesure pour Mesure_, a play directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
 * 2016-2017 : Assistant of the stage designer **Mathieu Lorry-Dupuy**.
 * 2016 : Stage designer assistant for _Gulliver_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the National Theatre of La Colline, Paris. 
