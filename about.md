@@ -23,7 +23,7 @@ _(English version below)_
 
 ## **Expérience**
 
-### Arts vivants
+### Art-vivant
 * 2017-2018 : Scénographe pour _Lotterie Solaire*(titre provisoire)_ une pièce écrite (d'après le roman de P.K.Dick) et mise en scène par **Mathilde Gentil**, Gosh Cie, Paris. 
 * 2017 : Assistante scénographe pour _La princesse Maleine_, une pièce mise en scène par **Pascal Kirsch**, cie. Théâtre de Lethé, au Festival d'Avignon 2017, Avignon.
 * 2017 : Scénographe pour le concert d'**Eric Lemuet** au Supersonic, Paris.
@@ -46,7 +46,7 @@ _(English version below)_
  
 <br>
 
-### Installations
+### Installation
 
 * 2015 : Installation digitale, _Watch your traces_, dans le cadre de l’exposition Self-watching/Self-tracing de Transmediale 2015, à la Haus der Kulturen der Welt **HKW**, Berlin.
 * 2013 : Équipière technique du projet de Sylvia Schildge pour **La Nuit blanche**, Paris.
@@ -63,7 +63,7 @@ _(English version below)_
  
 <br>
 
-### Vidéos
+### Image & Vidéo
 * 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital Maison blanche, Paris. (projet en cours)
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
@@ -109,7 +109,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
  
 <br>
 
-### Installations
+### Installation
 
 * 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
 * 2013 : Technical team for Sylvia Schildge’s project on the event **La Nuit Blanche**, Paris.
@@ -126,7 +126,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
  
 <br>
 
-### Videos
+### Image & Video
 
 * 2017 : Realization of _Centre_, a short film about and with the members of the CATTP Centre Carpeaux, Hospital Maison Blanche, Paris.
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
