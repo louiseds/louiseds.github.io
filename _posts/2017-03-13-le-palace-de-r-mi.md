@@ -61,4 +61,4 @@ A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse préca
 
 
 
-(Crédits photo : Clément Feat, Agathe Joubert, Samuel Charles)
+(Crédits photo : Clément Feat, Agathe Joubert, [Samuel Charles](www.samchapho.com) )
