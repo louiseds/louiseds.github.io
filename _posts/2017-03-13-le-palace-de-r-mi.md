@@ -53,7 +53,6 @@ A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse préca
 Photos de répétitions, tournée et montages : 
 
 
-![17155627_10155011475035053_1198638522037914523_n.jpg]({{site.baseurl}}/images/17155627_10155011475035053_1198638522037914523_n.jpg)
 ![Capture d’écran 2017-03-13 à 14.31.17.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.31.17.png)
 
 ![21248160_507027686306494_2620634216110881718_o.jpg]({{site.baseurl}}/images/21248160_507027686306494_2620634216110881718_o.jpg)
