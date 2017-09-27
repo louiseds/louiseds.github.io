@@ -46,18 +46,16 @@ Plus qu’un espace de repli, la cave de Ferdinand est un pendant moderne de la 
 
 A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse précaire et casanière qui bricole avec les outils technologiques pour inventer de nouveaux langages, de nouveaux rapports.
 
+![Capture d’écran 2017-03-13 à 14.03.59.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.59.png)
 
 **Photos de résidences, tournées et montages :**
 
-![Capture d’écran 2017-03-13 à 14.03.59.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.59.png)
-
 ![Capture d’écran 2017-03-13 à 14.31.17.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.31.17.png)
-
+![21319067_10155110292553635_92480457586421395_o.jpg]({{site.baseurl}}/images/21319067_10155110292553635_92480457586421395_o.jpg)
 ![21248160_507027686306494_2620634216110881718_o.jpg]({{site.baseurl}}/images/21248160_507027686306494_2620634216110881718_o.jpg)
 ![21125756_507027912973138_2892269535563273630_o.jpg]({{site.baseurl}}/images/21125756_507027912973138_2892269535563273630_o.jpg)
 ![21458032_10155110290988635_1587267695386177175_o.jpg]({{site.baseurl}}/images/21458032_10155110290988635_1587267695386177175_o.jpg)
 ![21427292_10155110292198635_747446405448969512_o.jpg]({{site.baseurl}}/images/21427292_10155110292198635_747446405448969512_o.jpg)
-![21319067_10155110292553635_92480457586421395_o.jpg]({{site.baseurl}}/images/21319067_10155110292553635_92480457586421395_o.jpg)
 
 
 
