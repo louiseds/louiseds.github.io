@@ -49,6 +49,7 @@ Répétitions, tournée et montages :
 
 ![17155627_10155011475035053_1198638522037914523_n.jpg]({{site.baseurl}}/images/17155627_10155011475035053_1198638522037914523_n.jpg)
 ![Capture d’écran 2017-03-13 à 14.31.17.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.31.17.png)
+![18766826_1953747558192181_1437602522581731534_o.jpg]({{site.baseurl}}/images/18766826_1953747558192181_1437602522581731534_o.jpg)
 
 
-(Crédits photo : Clément Feat)
+(Crédits photo : Clément Feat, Agathe Joubert, Samuel Charles)
