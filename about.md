@@ -129,5 +129,6 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ### Image & Video
 
 * 2017 : Realization of _Centre_, a short film about and with the members of the CATTP Centre Carpeaux, Hospital Maison Blanche, Paris.
+* 2017 : Production designer for de video clip _Comment te dire Adieu_ of the singer Camille Berthault, realized by Jules Follet and produced by Sony and Rue de la Sardine, Paris.
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
