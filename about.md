@@ -65,6 +65,7 @@ _(English version below)_
 
 ### Image & Vidéo
 * 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital Maison blanche, Paris. (projet en cours)
+* 2017 : Chef-déco pour le clip _Comment te dire Adieu_ de la chanteuse Camille Berthault, realisé par Jules Follet et produit par Sony et Rue de la Sardine, Paris.
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
 
