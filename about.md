@@ -65,7 +65,7 @@ _(English version below)_
 
 ### Image & Vidéo
 * 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital Maison blanche, Paris. (projet en cours)
-* 2017 : Chef-déco pour le clip _Comment te dire Adieu_ de la chanteuse Camille Berthault, realisé par Jules Follet et produit par Sony et Rue de la Sardine, Paris.
+* 2017 : Chef-déco pour le clip _Comment te dire Adieu_ de la chanteuse Camille Bertault, realisé par Jules Follet et produit par Sony et Rue de la Sardine, Paris.
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
 
@@ -130,6 +130,6 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ### Image & Video
 
 * 2017 : Realization of _Centre_, a short film about and with the members of the CATTP Centre Carpeaux, Hospital Maison Blanche, Paris.
-* 2017 : Production designer for de video clip _Comment te dire Adieu_ of the singer Camille Berthault, realized by Jules Follet and produced by Sony and Rue de la Sardine, Paris.
+* 2017 : Production designer for de video clip _Comment te dire Adieu_ of the singer Camille Bertault, realized by Jules Follet and produced by Sony and Rue de la Sardine, Paris.
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
