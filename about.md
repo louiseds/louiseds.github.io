@@ -35,7 +35,7 @@ _(English version below)_
 * 2016 : Scénographe pour _60°Nord_, une pièce mise en scène par **Emmanuel Besnault** au Conservatoire National (CnsAD), Paris.
 * 2016 : Metteur en scène et scénographe de _Déviations_, un spectacle présenté à l’EnsAD et au Festival _Ouverture de Saison_ de l’École des Beaux-Arts (EnsBA) de Paris.
 * 2016 : Workshop de mise en scène avec **Grand Magasin** au théâtre Nanterre-Amandiers, Nanterre.
-* 2015 : Mémoire de master, _Ce qui arrive_ (sur le potentiel d’accident dans le spectacle vivant), mention très bien, Paris.
+* 2015 : Mémoire de master, _Ce qui arrive_ (sur la recherche de l’accident  dans le spectacle vivant), mention très bien, Paris.
 * 2015 : Scénographe pour _Après mais juste avant_, un spectacle mis en scène par **Yvo Mentens** au Conservatoire National (CnsAD), Paris.
 * 2014 : Assistante scénographe pour _The Past_, un spectacle mis en scène par **Constanza Macras**, cie. Dorkyparks, produit par Hellerau et la Schaubühne, Berlin.
 * 2014 : Assistante scénographe pour _Die Ehe der Maria Braun_, une pièce mise en scène par **Thomas Ostermeier**, produite pour le Festival d’Avignon à la Schaubühne, Berlin.
@@ -99,7 +99,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 * 2016 : Stage designer of _60°Nord_, a play written by Lucie Digout and directed by **Emmanuel Besnault** at the National Conservatory (CnsAD), Paris.
 * 2016 : Director and stage designer of _Déviations_, shown at the EnsAD and at _l'Ecole des Beaux-Arts_  (EnsBA), for the festival _Ouverture de saison_,  Paris.
 * 2016 : Direction workshop with **Grand Magasin** at the Nanterre-Amandier National Theater, Nanterre.
-* 2015 : Master thesis, _Ce qui arrive_ (about the potential of accident in the performing arts), passed with distinction, Paris.
+* 2015 : Master thesis, _Ce qui arrive_ (about the research of accidents in the performing arts), passed with distinction, Paris.
 * 2015 : Stage designer of _Après mais juste avant_ a play by **Yvo Mentens** at the National Conservatory (CnsAD), Paris. 
 * 2014 : Stage designer assistant for _The Past_, directed by **Constanza Macras**, cie. Dorkyparks, produced by Hellerau and Schaubühne, Dresden and Berlin.
 * 2014 : Stage designer assistant for _Die Ehe der Maria Braun_  directed by **Thomas Ostermeier**, Schaubühne, Berlin.
