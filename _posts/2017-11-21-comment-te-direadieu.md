@@ -15,11 +15,19 @@ CAMILLE BERTAULT // Comment te Dire Adieu - Clip
 [Lien Youtube](https://youtu.be/hspfL6cPGfI)
 
 Artiste : Camille Bertault
+
 Production : Marie Lesay 
+
 Réalisateur : Jules Follet
+
 Chef Opérateur : Erwan Dean
+
 Chef Déco : Louise Douet-Sinenberg
+
 Chef Electro : Chloé Bouhon
+
 Costume : Garance Kim
+
 Maquilleuse : Lise Ruault
+
 
