@@ -5,7 +5,7 @@ date: '2017-11-21 11:08 +0100'
 published: true
 title: Comment te Dire Adieu
 ---
-Chef-décoratrice pour le clip de Camille Bertault
+Décor pour le clip de Camille Bertault
 
 ![Capture d’écran 2017-11-17 à 11.41.38.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 11.41.38.png)
 ![Capture d’écran 2017-11-17 à 12.24.10.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.24.10.png)
