@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: images/th_palace.jpg
+preview: images/th_palace2.png
 date: '2017-03-13 13:52 +0100'
 published: true
 title: Le Palace de Rémi
@@ -15,6 +15,7 @@ Spectacle présenté au SUREAU, à LA GÉNÉRALE dans le cadre du festival « l�
 
 Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU – PROJECTION ROOM - MAIN D'OEUVRE 
 
+![th_palace2.png]({{site.baseurl}}/images/th_palace2.png)
 
 
 Avec Ferdinand Niquet-Rioux, Juliette Hubert et Nicole Stankiewicz
