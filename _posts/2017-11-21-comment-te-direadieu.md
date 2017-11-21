@@ -7,6 +7,8 @@ title: Comment te Dire Adieu
 ---
 Chef Déco pour le clip de Camille Bertault
 
+![Capture d’écran 2017-11-17 à 12.24.10.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.24.10.png)
+
 
 CAMILLE BERTAULT // Comment te Dire Adieu - Clip
 
