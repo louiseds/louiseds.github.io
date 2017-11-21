@@ -13,7 +13,7 @@ Scénographie
 
 Spectacle présenté au SUREAU, à LA GÉNÉRALE dans le cadre du festival « l’Éveil de printemps »,  Au DOC!, au Festival MONTVALENT MONTVALENT et à la HALLE PAJOL dans le cadre du " festival des idées"
 
-Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU – PROJECTION ROOM (Bruxelles)
+Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU – PROJECTION ROOM - MAIN D'OEUVRE 
 
 
 
