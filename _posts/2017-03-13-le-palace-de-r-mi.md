@@ -48,10 +48,12 @@ A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse préca
 ![IMG_2299.jpg]({{site.baseurl}}/images/IMG_2299.jpg)
 
 
+
+
 **Photos de résidences, tournées et montages :**
 
-![IMG_2180.jpg]({{site.baseurl}}/images/IMG_2180.jpg)
 ![Capture d’écran 2017-03-13 à 14.04.09.png]({{site.baseurl}}/images/Capture%20d%E2%80%99e%CC%81cran%202017-03-13%20a%CC%80%2014.04.09.png)
+![IMG_2180.jpg]({{site.baseurl}}/images/IMG_2180.jpg)
 ![21319067_10155110292553635_92480457586421395_o.jpg]({{site.baseurl}}/images/21319067_10155110292553635_92480457586421395_o.jpg)
 ![21248160_507027686306494_2620634216110881718_o.jpg]({{site.baseurl}}/images/21248160_507027686306494_2620634216110881718_o.jpg)
 ![21458032_10155110290988635_1587267695386177175_o.jpg]({{site.baseurl}}/images/21458032_10155110290988635_1587267695386177175_o.jpg)
