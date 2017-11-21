@@ -10,7 +10,6 @@ Scénographie
 ![18766826_1953747558192181_1437602522581731534_o.jpg]({{site.baseurl}}/images/18766826_1953747558192181_1437602522581731534_o.jpg)
 
 
-
 Spectacle présenté au SUREAU, à LA GÉNÉRALE dans le cadre du festival _L’Éveil de printemps_,  Au DOC!, au festival MONTVALENT MONTVALENT et à la HALLE PAJOL dans le cadre du _Festival des idées_.
 
 ![th_palace2.png]({{site.baseurl}}/images/th_palace2.png)
