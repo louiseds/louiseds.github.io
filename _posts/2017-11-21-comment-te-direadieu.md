@@ -7,7 +7,6 @@ title: Comment te Dire Adieu
 ---
 Décor pour le clip de Camille Bertault
 
-![Capture d’écran 2017-11-17 à 11.41.38.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 11.41.38.png)
 ![Capture d’écran 2017-11-17 à 12.24.10.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.24.10.png)
 
 
