@@ -17,7 +17,6 @@ Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU
 
 ![th_palace2.png]({{site.baseurl}}/images/th_palace2.png)
 
-
 Avec Ferdinand Niquet-Rioux, Juliette Hubert et Nicole Stankiewicz
 
 Texte : Judith de Laubier et Lea Tarral
@@ -30,6 +29,7 @@ Création sonore : Cyril Brossard et les comédiens
 
 Création lumière : Lucien Valle
 
+![Laika@104-65.jpg]({{site.baseurl}}/images/Laika@104-65.jpg)
 
 
 Ferdinand vit dans une cave avec pour seule compagnie ses plantes et sa voisine Juliette. Ensemble, ils créent un groupe et se lancent dans une quête musicale et encyclopédique.
@@ -37,7 +37,9 @@ Ferdinand vit dans une cave avec pour seule compagnie ses plantes et sa voisine 
 Plus qu’un espace de repli, la cave de Ferdinand est un pendant moderne de la caverne, un endroit où l’on peut observer les ombres du monde extérieur. Un espace obscur et à côté du monde dans lequel on peut s’inventer des univers à soi, former des images. 
 
 A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse précaire et casanière qui bricole avec les outils technologiques pour inventer de nouveaux langages, de nouveaux rapports.
-
+![Laika@104-23.jpg]({{site.baseurl}}/images/Laika@104-23.jpg)
+![Laika@104-31.jpg]({{site.baseurl}}/images/Laika@104-31.jpg)
+![]({{site.baseurl}}/images/Laika%40104-23.jpg)
 
 
 **Photos de résidences, tournées et montages :**
