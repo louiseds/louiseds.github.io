@@ -35,12 +35,12 @@ Maquilleuse : Lise Ruault
 ![Capture d’écran 2017-11-17 à 12.21.34.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.21.34.png)
 ![Capture d’écran 2017-11-17 à 12.22.59.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.22.59.png)
 ![]({{site.baseurl}}/images/Capture%20d%E2%80%99e%CC%81cran%202017-11-17%20a%CC%80%2012.24.25.png)![Capture d’écran 2017-11-17 à 12.24.25.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.24.25.png)
-![Capture d’écran 2017-11-17 à 15.44.01.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 15.44.01.png)
 ![Capture d’écran 2017-11-17 à 11.43.53.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 11.43.53.png)
 ![]({{site.baseurl}}/images/Capture%20d%E2%80%99e%CC%81cran%202017-11-17%20a%CC%80%2012.23.48.png)![Capture d’écran 2017-11-17 à 12.23.48.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.23.48.png)
 ![Capture d’écran 2017-11-17 à 12.24.22 1.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.24.22 1.png)
 ![Capture d’écran 2017-11-17 à 12.24.38.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 12.24.38.png)
 ![Capture d’écran 2017-11-17 à 11.42.35.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 11.42.35.png)
+![Capture d’écran 2017-11-17 à 15.44.01.png]({{site.baseurl}}/images/Capture d’écran 2017-11-17 à 15.44.01.png)
 
 
 
