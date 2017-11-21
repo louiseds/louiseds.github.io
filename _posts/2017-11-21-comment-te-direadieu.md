@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_commenttedireadieu.jpg
 date: '2017-11-21 11:08 +0100'
-published: false
+published: true
 title: Comment te Dire Adieu
 ---
 Chef Déco pour le clip de Camille Bertault
