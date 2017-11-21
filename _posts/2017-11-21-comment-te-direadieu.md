@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_commenttedireadieu.jpg
 date: '2017-11-21 11:08 +0100'
 published: false
 title: Comment te Dire Adieu
