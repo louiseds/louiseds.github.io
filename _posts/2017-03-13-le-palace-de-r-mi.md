@@ -27,6 +27,8 @@ Dramaturgie : Lea Tarral
 
 Création sonore : Cyril Brossard et les comédiens
 
+Création lumière : Lucien Valle
+
 
 
 Ferdinand vit dans une cave avec pour seule compagnie ses plantes et sa voisine Juliette. Ensemble, ils créent un groupe et se lancent dans une quête musicale et encyclopédique.
