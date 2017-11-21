@@ -40,12 +40,12 @@ Plus qu’un espace de repli, la cave de Ferdinand est un pendant moderne de la 
 
 A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse précaire et casanière qui bricole avec les outils technologiques pour inventer de nouveaux langages, de nouveaux rapports.
 
-![IMG_2299.jpg]({{site.baseurl}}/images/IMG_2299.jpg)
+
 ![Laika@104-39.jpg]({{site.baseurl}}/images/Laika@104-39.jpg)
 ![Laika@104-31.jpg]({{site.baseurl}}/images/Laika@104-31.jpg)
 ![]({{site.baseurl}}/images/Laika%40104-23.jpg)
 ![Laika@104-77.jpg]({{site.baseurl}}/images/Laika@104-77.jpg)
-
+![IMG_2299.jpg]({{site.baseurl}}/images/IMG_2299.jpg)
 
 
 **Photos de résidences, tournées et montages :**
