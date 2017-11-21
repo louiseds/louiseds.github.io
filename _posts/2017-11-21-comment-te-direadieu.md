@@ -3,9 +3,9 @@ layout: post
 preview: 'http://placehold.it/300x300'
 date: '2017-11-21 11:08 +0100'
 published: false
-title: Comment te DireAdieu
+title: Comment te Dire Adieu
 ---
-Chef Déco
+Chef Déco pour le clip de Camille Bertault
 
 
 CAMILLE BERTAULT // Comment te Dire Adieu - Clip
