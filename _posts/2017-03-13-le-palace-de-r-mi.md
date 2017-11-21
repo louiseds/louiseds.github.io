@@ -13,11 +13,12 @@ Scénographie
 
 Spectacle présenté au SUREAU, à LA GÉNÉRALE dans le cadre du festival _L’Éveil de printemps_,  Au DOC!, au festival MONTVALENT MONTVALENT et à la HALLE PAJOL dans le cadre du _Festival des idées_.
 
-
+![th_palace2.png]({{site.baseurl}}/images/th_palace2.png)
 
 Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU – PROJECTION ROOM - MAIN D'OEUVRE 
 
-![th_palace2.png]({{site.baseurl}}/images/th_palace2.png)
+![IMG_2302.jpg]({{site.baseurl}}/images/IMG_2302.jpg)
+
 
 Avec Ferdinand Niquet-Rioux, Juliette Hubert et Nicole Stankiewicz
 
@@ -40,6 +41,7 @@ Plus qu’un espace de repli, la cave de Ferdinand est un pendant moderne de la 
 
 A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse précaire et casanière qui bricole avec les outils technologiques pour inventer de nouveaux langages, de nouveaux rapports.
 
+![IMG_2299.jpg]({{site.baseurl}}/images/IMG_2299.jpg)
 ![Laika@104-39.jpg]({{site.baseurl}}/images/Laika@104-39.jpg)
 ![Laika@104-31.jpg]({{site.baseurl}}/images/Laika@104-31.jpg)
 ![]({{site.baseurl}}/images/Laika%40104-23.jpg)
