@@ -10,35 +10,24 @@ Scénographie
 ![18766826_1953747558192181_1437602522581731534_o.jpg]({{site.baseurl}}/images/18766826_1953747558192181_1437602522581731534_o.jpg)
 
 
-  /  _Spectacle en cours de création_  /
 
-Présentation de maquette :
-
-Samedi 4 mars à 19h : AU SUREAU
-
-Mardi 7 mars à 14h :  À LA GÉNÉRALE dans le cadre du festival « l’Éveil de printemps »
-
-En avril : Au « Doc! »
+Spectacle présenté au SUREAU, à LA GÉNÉRALE dans le cadre du festival « l’Éveil de printemps »,  Au DOC!, au Festival MONTVALENT MONTVALENT et à la HALLE PAJOL dans le cadre du " festival des idées"
 
 Avec le soutien du CENTQUATRE-PARIS – LA GÉNÉRALE – LE DOC ! – LE SUREAU – PROJECTION ROOM (Bruxelles)
 
 
-![Capture d’écran 2017-03-13 à 14.01.50.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.01.50.png)
 
-![Capture d’écran 2017-03-13 à 14.02.44.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.02.44.png)
+Avec Ferdinand Niquet-Rioux, Juliette Hubert et Nicole Stankiewicz
 
-Avec Ferdinand Niquet-Rioux, Juliette Hubert et Cyril Brossard
+Texte : Judith de Laubier et Lea Tarral
 
 Mise en scène : Judith de Laubier
 
 Dramaturgie : Lea Tarral
 
-Création sonore : Cyril Brossard
-
-Assistante à la mise en scène : Nicole Stankiewicz
+Création sonore : Cyril Brossard et les comédiens
 
 
-![Capture d’écran 2017-03-13 à 14.03.10.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.10.png)
 
 Ferdinand vit dans une cave avec pour seule compagnie ses plantes et sa voisine Juliette. Ensemble, ils créent un groupe et se lancent dans une quête musicale et encyclopédique.
 
@@ -46,7 +35,6 @@ Plus qu’un espace de repli, la cave de Ferdinand est un pendant moderne de la 
 
 A travers Ferdinand et Juliette, nous racontons l'histoire d'une jeunesse précaire et casanière qui bricole avec les outils technologiques pour inventer de nouveaux langages, de nouveaux rapports.
 
-![Capture d’écran 2017-03-13 à 14.03.59.png]({{site.baseurl}}/images/Capture d’écran 2017-03-13 à 14.03.59.png)
 
 
 **Photos de résidences, tournées et montages :**
