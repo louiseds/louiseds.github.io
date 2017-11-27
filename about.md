@@ -89,9 +89,9 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ### Performing arts
 
 * 2017-2018 : Stage designer for _Solar Lottery_ a digital performance adapted (from P.K.Dick's novel) and directed by **Mathilde Gentil**, Gosh cie., in residence at La Paillasse, Le Carreau du temple, Le Centquatre, Le Labos d’Aubervillier, La Gaité Lyrique, Le Lieu Multiple à Poitier and in Doue (Program _Création en cours_)
-* 2017 : Stage designer assistant for _La princesse Maleine_ a play directed by **Pascal Kirsch**, cie. Théâtre de Lethé, showed at the Festival d'Avignon 2017, Avignon.
+* 2017 : Stage designer assistant for _La princesse Maleine_ a play directed by **Pascal Kirsch**, cie. Théâtre de Lethé, shown at the Festival d'Avignon 2017, Avignon.
 * 2017 : Stage designer for the music concert of **Eric Lemuet** at the Supersonic, Paris.
-* 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka showed and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc, Montvalent-Montvalent festival, at the Théâtre de la parole errante and at the 104, Paris.
+* 2017 : Stage designer of _Le Palace de Remi_, a play written and directed by **Judith de Laubier**, cie. Laïka shown and in residence at La Générale (Festival L'Eveil du Printemps), Le Sureau, Le Doc, Montvalent-Montvalent festival, at the Théâtre de la parole errante and at the Centquatre, Paris.
 * 2017 : Stage designer assistant for _Mesure pour Mesure_, a play directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the Théâtre de Vidy, Lausanne, Switzerland.
 * 2016-2017 : Assistant of the stage designer **Mathieu Lorry-Dupuy**.
 * 2016 : Stage designer assistant for _Gulliver_, directed by **Karim Bel Kacem**, cie. Think Tank Théâtre, at the National Theatre of La Colline, Paris. 
