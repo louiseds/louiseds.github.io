@@ -54,8 +54,9 @@ _(English version below)_
  
 <br>
 
-### Scénographie d'exposition
+### Scénographie d'expositions & d'évènements
 
+* 2017-2018 : Scénographe d'évènements de communication pour : Le Perchoir, Pain Surprise, My Little Paris, Sennse et **Hermès**.
 * 2016 : Scénographe de l'exposition des oeuvres de la _Chaire Innovation & savoir-faire_ de la **Fondation Bettencourt-Schueller**, Paris.
 * 2013 : Scénographe de l’exposition _Géant_, Galerie Beaurepaire, Paris.
 * 2011 : Stagiaire à la Direction de production, service architecture du **Centre Pompidou**, Paris. (Assistante scénographie sur les expositions : _Gerhard Richter_, _Brancusi_, _Cabinet d’art graphique_ et le prix Marcel Duchamps.)
@@ -118,8 +119,9 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
  
 <br>
 
-### Museum
+### Set design for exhibitions and events
 
+* 2017-2018 : Set designer of communication events for : Le Perchoir, Pain Surprise, My Little Paris, Sennse and **Hermès**.
 * 2016 : Scenography of the exhibition of the **Fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
 * 2011 : Internship at the production department of the museum **Centre Pompidou**, Paris. (Exhibitions : _Gerhard Richter_, _Brancusi_ and _Cabinet d’art graphique_.)
