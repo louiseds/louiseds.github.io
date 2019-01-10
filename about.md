@@ -26,7 +26,7 @@ _(English version below)_
 ### Art-vivant
 
 * 2019 : Ateliers de scénographie pour l'association _Ma P'tite Folie_ à la _MPAA_ de Paris.
-* 2019 : Scénographe pour _Je m'appelle David R._, comédie musicale écrite par Cyrille Garit & Elsa Vasseur, composée par Nicolas Porcher & Matthieu Truffinet et mise en scène par Nicolas Guilleminot.
+* 2019 : Scénographe pour _Je m'appelle David R._, comédie musicale écrite par Cyrille Garit & Elsa Vasseur, composée par Nicolas Porcher & Matthieu Truffinet et mise en scène par **Nicolas Guilleminot**.
 * 2018 : Régisseuse générale pour _Il faut arracher la joie aux jours qui filent_, pièce adaptée par Benjamin Porée et Mathieu Dessertine et mise en scène par **Benjamin Porée** Cie. La Musicienne du Silence. Réprésentations au Théatre des Gémeaux, au Quartz, au Parvis et au Théâtre du Luxembourg.
 * 2018 : Scénographe pour _Les rats_, adapté et mis en scène par **Simon Rembado**, Cie. Les Poursuivants. 
 * 2017-2018 : Scénographe pour _Loterie Solaire*(titre provisoire)_ une pièce écrite (d'après le roman de P.K.Dick) et mise en scène par **Mathilde Gentil**, Gosh Cie, en résidence à La Paillasse, au Carreau du temple, au Centquatre, au Labos d’Aubervillier, à La Gaité Lyrique, au Lieu Multiple à Poitier et à Doue (Programme _Création en cours_). 
