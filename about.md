@@ -25,6 +25,9 @@ _(English version below)_
 
 ### Art-vivant
 
+* 2019 : Ateliers de scénographie pour l'association _Ma P'tite Folie_ à la _MPAA_ de Paris.
+* 2019 : Scénographe pour _Je m'appelle David R._, comédie musicale écrite par Cyrille Garit & Elsa Vasseur, composée par Nicolas Porcher & Matthieu Truffinet et mise en scène par Nicolas Guilleminot.
+* 2018 : Régisseuse générale pour _Il faut arracher la joie aux jours qui filent_, pièce adaptée par Benjamin Porée et Mathieu Dessertine et mise en scène par **Benjamin Porée** Cie. La Musicienne du Silence. Réprésentations au Théatre des Gémeaux, au Quartz, au Parvis et au Théâtre du Luxembourg.
 * 2018 : Scénographe pour _Les rats_, adapté et mis en scène par **Simon Rembado**, Cie. Les Poursuivants. 
 * 2017-2018 : Scénographe pour _Loterie Solaire*(titre provisoire)_ une pièce écrite (d'après le roman de P.K.Dick) et mise en scène par **Mathilde Gentil**, Gosh Cie, en résidence à La Paillasse, au Carreau du temple, au Centquatre, au Labos d’Aubervillier, à La Gaité Lyrique, au Lieu Multiple à Poitier et à Doue (Programme _Création en cours_). 
 * 2017 : Assistante scénographe pour _La princesse Maleine_, une pièce mise en scène par **Pascal Kirsch**, cie. Théâtre de Lethé, au Festival d'Avignon 2017, Avignon.
@@ -58,6 +61,7 @@ _(English version below)_
 
 ### Scénographie d'expositions & d'évènements
 
+* 2018 : Scénographe pour les vitrines **Camper**, Paris.
 * 2017-2018 : Scénographe d'évènements de communication pour : Le Perchoir, Pain Surprise, My Little Paris, Sennse, Solib, L'Equipée et **Hermès**.
 * 2016 : Scénographe de l'exposition des oeuvres de la _Chaire Innovation & savoir-faire_ de la **Fondation Bettencourt-Schueller**, Paris.
 * 2013 : Scénographe de l’exposition _Géant_, Galerie Beaurepaire, Paris.
@@ -90,7 +94,9 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ## **Experience**
 
 ### Performing arts
-
+* 2019 : Stage design teacher for _Ma P'tite Folie's_ workshops at MPAA Paris
+* 2019 : Stage designer for _Je m'appelle David R._, a musical written by Cyrille Garit & Elsa Vasseur, composed by Nicolas Porcher & Matthieu Truffinet and directed by Nicolas Guilleminot.
+* 2018 : Technical director for _Il faut arracher la joie aux jours qui filent_, a play adapted and directed by Benjamin Porée, Cie. La Musicienne du Silence. At the Théâtre des Gemeaux (Sceaux), Le Quartz (Brest), Théâtre du Luxembourg (Meaux), Le Parvis (Tarbes). 
 * 2018 : Stage designer for _Les rats_, adapted and directed by **Simon Rembado**, Cie. Les Poursuivants. 
 * 2017-2018 : Stage designer for _Solar Lottery_ a digital performance adapted (from P.K.Dick's novel) and directed by **Mathilde Gentil**, Gosh cie., in residence at La Paillasse, Le Carreau du temple, Le Centquatre, Le Labos d’Aubervillier, La Gaité Lyrique, Le Lieu Multiple à Poitier and in Doue (Program _Création en cours_)
 * 2017 : Stage designer assistant for _La princesse Maleine_ a play directed by **Pascal Kirsch**, cie. Théâtre de Lethé, shown at the Festival d'Avignon 2017, Avignon.
@@ -124,6 +130,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 
 ### Set design for exhibitions and events
 
+* 2018 : Set designer for **Camper** windows, Paris.
 * 2017-2018 : Set designer of communication events for : Le Perchoir, Pain Surprise, My Little Paris, Sennse, Solib, L'Equipée and **Hermès**.
 * 2016 : Scenography of the exhibition of the **Fondation Bettencourt-Schueller** _Chaire «Innovation & Savoir-faire»_, Paris.
 * 2013 : Scenography of the exhibition _Géant_, at the Galerie Beaurepaire, Paris.
