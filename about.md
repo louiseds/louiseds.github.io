@@ -23,7 +23,7 @@ _(English version below)_
 
 ## **Expérience**
 
-### Art-vivant
+### Arts vivants
 
 * 2019 : Ateliers de scénographie pour l'association _Ma P'tite Folie_ à la _MPAA_ de Paris.
 * 2019 : Scénographe pour _Je m'appelle David R._, comédie musicale écrite par Cyrille Garit & Elsa Vasseur, composée par Nicolas Porcher & Matthieu Truffinet et mise en scène par **Nicolas Guilleminot**.
@@ -48,15 +48,7 @@ _(English version below)_
 * 2012 : Workshop de mise en scène avec **Philippe Quesne** au T2G, Genevilliers.
 * 2012 : Lauréate du concours inter-écoles de scénographie sur Tage Unter dirigé par **Stéphane Braunschweig**, et exposition de la maquette au Théâtre de La Colline, Paris.
 <br>
- 
-<br>
-
-### Installation
-
-* 2015 : Installation digitale, _Watch your traces_, dans le cadre de l’exposition Self-watching/Self-tracing de Transmediale 2015, à la Haus der Kulturen der Welt **HKW**, Berlin.
-* 2013 : Équipière technique du projet de Sylvia Schildge pour **La Nuit blanche**, Paris.
-<br>
- 
+  
 <br>
 
 ### Scénographie d'expositions & d'évènements
@@ -71,11 +63,19 @@ _(English version below)_
 <br>
 
 ### Image & Vidéo
+* 2019 : Chef-déco pour le clip _Le vent se lève_ du groupe **Bleu Toucan**, realisé par **Grama**, label Profil de face, Paris.
+* 2018 : Assistante-déco pour le shooting print et web de la collection textile **Hermès**.
 * 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital Maison blanche, Paris. (projet en cours)
 * 2017 : Chef-déco pour le clip _Comment te dire Adieu_ de la chanteuse Camille Bertault, realisé par Jules Follet et produit par Sony et Rue de la Sardine, Paris.
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
+<br>
 
+### Installation
+
+* 2015 : Installation digitale, _Watch your traces_, dans le cadre de l’exposition Self-watching/Self-tracing de Transmediale 2015, à la Haus der Kulturen der Welt **HKW**, Berlin.
+* 2013 : Équipière technique du projet de Sylvia Schildge pour **La Nuit blanche**, Paris.
+<br>
 
 ![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
 
@@ -120,14 +120,6 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
  
 <br>
 
-### Installation
-
-* 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
-* 2013 : Technical team for Sylvia Schildge’s project on the event **La Nuit Blanche**, Paris.
-<br>
- 
-<br>
-
 ### Set design for exhibitions and events
 
 * 2018 : Set designer for **Camper** windows, Paris.
@@ -141,7 +133,16 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 
 ### Image & Video
 
+* 2019 : Production designer for the video clip _Le vent de lève_ of the band **Bleu Toucan**, realized by **Grama**, label Profil de face, Paris.
+* 2018 : Assistant set designer for print and web shots of **Hermès** textile collection.  
 * 2017 : Realization of _Centre_, a short film about and with the members of the CATTP Centre Carpeaux, Hospital Maison Blanche, Paris.
-* 2017 : Production designer for de video clip _Comment te dire Adieu_ of the singer Camille Bertault, realized by Jules Follet and produced by Sony and Rue de la Sardine, Paris.
+* 2017 : Production designer for the video clip _Comment te dire Adieu_ of the singer Camille Bertault, realized by Jules Follet and produced by Sony and Rue de la Sardine, Paris.
 * 2013 : Realization of _Fall through_, a sequence shot short film, EnsAD, Paris.
 * 2012 : Props and decorator assistant on the film shoot of _Aussi Loin_ by **Franziska M. Hoenisch**, Paris.
+<br>
+
+### Installation
+
+* 2014 : _Watch your traces_, digital installation for the exhibition _Self-watching/Self-tracing_ in **Transmediale 2015**, at **HKW**, Berlin. 
+* 2013 : Technical team for Sylvia Schildge’s project on the event **La Nuit Blanche**, Paris.
+<br>
