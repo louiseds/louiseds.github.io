@@ -10,7 +10,6 @@ Louise Douet-Sinenberg est une artiste et scénographe née à Nantes (France), 
 ![about_rond.jpg]({{site.baseurl}}/images/about_rond.jpg)
 
 
-
 _(English version below)_
 
 
