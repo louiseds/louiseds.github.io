@@ -6,7 +6,8 @@ published: false
 title: Le vent se lève
 ---
 Décor pour le clip de Bleu Toucan réalisé par **[Grama](https://grama.tv/)**
-![Capture d’écran 2019-03-09 à 12.29.36.png]({{site.baseurl}}/images/Capture d’écran 2019-03-09 à 12.29.36.png)
+
+
 
 GRAMA
 Réalisation — Thomas Bresteau
