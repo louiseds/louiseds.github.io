@@ -7,6 +7,7 @@ published: true
 
 Louise Douet-Sinenberg est une artiste et scénographe née à Nantes (France), le 26 avril 1991.
 
+
 ![about_rond2.jpg]({{site.baseurl}}/images/about_rond2.jpg)
 
 
@@ -77,6 +78,7 @@ _(English version below)_
 * 2015 : Installation digitale, _Watch your traces_, dans le cadre de l’exposition Self-watching/Self-tracing de Transmediale 2015, à la Haus der Kulturen der Welt **HKW**, Berlin.
 * 2013 : Équipière technique du projet de Sylvia Schildge pour **La Nuit blanche**, Paris.
 <br>
+
 
 ![about_rond.jpg]({{site.baseurl}}/images/about_rond.jpg)
 
