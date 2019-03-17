@@ -9,8 +9,11 @@ Décor pour **_[le clip](https://www.youtube.com/watch?v=WSmz8yJzxFA&feature=you
 
 
 GRAMA
+
 Réalisation — Thomas Bresteau
+
 Direction artistique — Gérard Mandin
+
 Production — Denis Dong
 
 
