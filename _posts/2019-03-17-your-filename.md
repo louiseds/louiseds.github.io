@@ -9,13 +9,18 @@ Scénographie et costumes
 ![IMG_5088.JPG]({{site.baseurl}}/images/IMG_5088.JPG)
 Spectacle monté en juin 2018 au Théâtre 13 à Paris.
 
-Les Rats est une adaptation de la pièce de Gerhart Hauptmann  Die Ratten 
-Mise en scène par Simon Rembado (Compagnie [Les poursuivants](https://www.lespoursuivants.org/)) 
+_Les Rats_ est une adaptation de la pièce de Gerhart Hauptmann _Die Ratten_
+
+Mise en scène de Simon Rembado (Compagnie [Les poursuivants](https://www.lespoursuivants.org/)) 
 
 Avec : Antoine Prudhomme de la Boussinière / Sarah Brannens / Kenza Lagnaoui / Yuriy Zavalnyouk / Alice Berger / Loulou Hanssen / Yannick Morzelle / Angèle Peyrade/ Théodora Breux
+
 Lumières : Lucien Valle
+
 Scénographie et costumes: Louise Douet-Sinenberg
+
 Musique : David Hess
+
 Dramaturgie : Julien Allavena
 
 ![_A DSC0014.JPG]({{site.baseurl}}/images/_A DSC0014.JPG)
