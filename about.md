@@ -81,6 +81,7 @@ _(English version below)_
 ![about_rond.jpg]({{site.baseurl}}/images/about_rond.jpg)
 
 
+
 Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) April, 26th 1991.
 
 
