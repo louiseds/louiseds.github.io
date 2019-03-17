@@ -78,7 +78,8 @@ _(English version below)_
 * 2013 : Équipière technique du projet de Sylvia Schildge pour **La Nuit blanche**, Paris.
 <br>
 
-![about-bandeau3.jpg]({{site.baseurl}}/images/about-bandeau3.jpg)
+![about_rond.jpg]({{site.baseurl}}/images/about_rond.jpg)
+
 
 Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) April, 26th 1991.
 
