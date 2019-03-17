@@ -5,9 +5,8 @@ date: '2019-03-17 22:06 +0100'
 published: false
 title: Le vent se lève
 ---
-Décor pour **_[le clip](https://www.youtube.com/watch?v=WSmz8yJzxFA&feature=youtu.be)_** de Bleu Toucan réalisé par **[Grama](https://grama.tv/)**
+Décor pour **_[le clip](https://www.youtube.com/watch?v=WSmz8yJzxFA&feature=youtu.be)_** de Bleu Toucan réalisé par **_[Grama](https://grama.tv/)_**
 
-![]({{site.baseurl}}/images/Capture%20d%E2%80%99e%CC%81cran%202019-03-09%20a%CC%80%2012.29.36.png)
 
 GRAMA
 Réalisation — Thomas Bresteau
