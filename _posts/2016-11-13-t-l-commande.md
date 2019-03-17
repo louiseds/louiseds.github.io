@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_telecommande.jpg
 date: '2010-04-13 17:25 +0100'
-published: true
+published: false
 title: Télécommande
 ---
 Installation / vidéo en plan séquence.
