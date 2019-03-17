@@ -38,6 +38,8 @@ Emma Barles, Carole-Anne Bauer, Benjamin Bensoussan, Joséphine Figueira, Marine
 
 Tourné à Mains d’Oeuvres
 
+![]({{site.baseurl}}/images/IMG_8154%20-%20copie.JPG)![IMG_8154 - copie.JPG]({{site.baseurl}}/images/IMG_8154 - copie.JPG)
+
 
 Écrit par Léo Becerra et Emmanuel Bonzé. Composé par Léo Becerra, Emmanuel Bonzé et Frédéric Darroux. 
 Produit par Tristan Salvati
