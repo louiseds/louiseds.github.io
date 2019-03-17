@@ -3,11 +3,12 @@ layout: post
 preview: 'http://placehold.it/300x300'
 date: '2019-03-17 18:25 +0100'
 published: false
-title: ''
+title: Les Rats
 ---
 Scénographie et costumes
 ![]({{site.baseurl}}/images/IMG_5088.JPG)![IMG_5088.JPG]({{site.baseurl}}/images/IMG_5088.JPG)
 Spectacle monté en juin 2018 au Théâtre 13 à Paris.
+![th_lesrats.jpg]({{site.baseurl}}/images/th_lesrats.jpg)
 
 Les Rats est une adaptation de la pièce de Gerhart Hauptmann  Die Ratten 
 Mise en scène par Simon Rembado (Compagnie [Les poursuivants](https://www.lespoursuivants.org/)) 
