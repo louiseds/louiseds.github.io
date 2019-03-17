@@ -7,6 +7,7 @@ title: Le vent se lève
 ---
 Décor pour le clip de Bleu Toucan réalisé par **[Grama](https://grama.tv/)**
 ![Capture d’écran 2019-03-09 à 12.29.36.png]({{site.baseurl}}/images/Capture d’écran 2019-03-09 à 12.29.36.png)
+
 GRAMA
 Réalisation — Thomas Bresteau
 Direction artistique — Gérard Mandin
@@ -17,12 +18,19 @@ Production — Denis Dong
 
 
 ÉQUIPE
+
 Image — Erwan Dean
+
 Machinerie — Dorian Pirot
+
 Stylisme — Mia Rafolo
+
 Décor — Louise Douet-Sinenberg
+
 Make up — Alice Bourlanges
+
 Technique — Vincent Tronel
+
 Régie — Alexis Nasri et Océane Goeury
 
 
@@ -30,6 +38,7 @@ Régie — Alexis Nasri et Océane Goeury
 
 
 MODÈLES
+
 Emma Barles, Carole-Anne Bauer, Benjamin Bensoussan, Joséphine Figueira, Marine François, Morgane Nexon, Jessica Randria, Iris de Richemont, Robin Sédille, Maceo Simon et Aloïs VDC
 
 
