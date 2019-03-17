@@ -47,11 +47,7 @@ MODÈLES
 Emma Barles, Carole-Anne Bauer, Benjamin Bensoussan, Joséphine Figueira, Marine François, Morgane Nexon, Jessica Randria, Iris de Richemont, Robin Sédille, Maceo Simon et Aloïs VDC
 
 
-![IMG_8551 - copie.JPG]({{site.baseurl}}/images/IMG_8551 - copie.JPG)
-
-
 Tourné à Mains d’Oeuvres
-
 
 ![set2.jpg]({{site.baseurl}}/images/set2.jpg)
 
