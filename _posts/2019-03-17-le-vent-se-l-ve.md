@@ -7,6 +7,7 @@ title: Le vent se lève
 ---
 Décor pour **_[le clip](https://www.youtube.com/watch?v=WSmz8yJzxFA&feature=youtu.be)_** de Bleu Toucan réalisé par **_[Grama](https://grama.tv/)_**
 
+![]({{site.baseurl}}/images/grama.png)
 
 GRAMA
 
@@ -50,7 +51,7 @@ Emma Barles, Carole-Anne Bauer, Benjamin Bensoussan, Joséphine Figueira, Marine
 
 Tourné à Mains d’Oeuvres
 
-![]({{site.baseurl}}/images/IMG_8154%20-%20copie.JPG)![IMG_8154 - copie.JPG]({{site.baseurl}}/images/IMG_8154 - copie.JPG)
+![]({{site.baseurl}}/images/set2.JPG)
 
 
 Écrit par Léo Becerra et Emmanuel Bonzé. Composé par Léo Becerra, Emmanuel Bonzé et Frédéric Darroux. 
