@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_lesrats.jpg
 date: '2019-03-17 18:25 +0100'
-published: false
+published: true
 title: Les Rats
 ---
 Scénographie et costumes
@@ -25,6 +25,3 @@ Le pari de cette adaptation est d'en extraire un discours puissant sur les quest
 Les Rats peuvent être considérés comme la seconde partie d'un diptyque constitué avec Léonie est en avance ou le mal joli d'à peu près Georges Feydeau mais pas vraiment ; comme la continuité de cette même envie de détourner les textes traditionnels pour ces propos qui trouvent aujourd'hui une résonance actuelle. 
 
 ![]({{site.baseurl}}/images/_DSC0049.JPG)![_DSC0049.JPG]({{site.baseurl}}/images/_DSC0049.JPG)
-
-
-
