@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: images/th_chaire.jpg
+preview: images/th_chaire2.jpg
 date: '2016-11-14 14:22 +0100'
 published: true
 title: Chaire «Innovation & Savoir-faire»
