@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_leventseleve.jpg
 date: '2019-03-17 22:06 +0100'
 published: false
 title: Le vent se lève
