@@ -53,7 +53,7 @@ _(English version below)_
   
 <br>
 
-### Scénographie d'expositions & d'évènements
+### Evènements
 
 * 2018 : Scénographe pour les vitrines **Camper**, Paris.
 * 2017-2018 : Scénographe d'évènements de communication pour : Le Perchoir, Pain Surprise, My Little Paris, Sennse, Solib, L'Equipée et **Hermès**.
@@ -124,7 +124,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
  
 <br>
 
-### Set design for exhibitions and events
+### Events
 
 * 2018 : Set designer for **Camper** windows, Paris.
 * 2017-2018 : Set designer of communication events for : Le Perchoir, Pain Surprise, My Little Paris, Sennse, Solib, L'Equipée and **Hermès**.
