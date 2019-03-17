@@ -1,6 +1,6 @@
 ---
 layout: post
-preview: 'http://placehold.it/300x300'
+preview: images/th_lesrats.jpg
 date: '2019-03-17 18:25 +0100'
 published: false
 title: Les Rats
