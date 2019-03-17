@@ -24,4 +24,10 @@ Les Poursuivants proposent une réécriture résolument contemporaine de la piè
 Le pari de cette adaptation est d'en extraire un discours puissant sur les questions que posent aujourd'hui la G.P.A et le monde du Théâtre, 
 Les Rats peuvent être considérés comme la seconde partie d'un diptyque constitué avec Léonie est en avance ou le mal joli d'à peu près Georges Feydeau mais pas vraiment ; comme la continuité de cette même envie de détourner les textes traditionnels pour ces propos qui trouvent aujourd'hui une résonance actuelle. 
 
-![_DSC0049.JPG]({{site.baseurl}}/images/_DSC0049.JPG)
+![IMG_5146.JPG]({{site.baseurl}}/images/IMG_5146.JPG)
+![_DSC0064.JPG]({{site.baseurl}}/images/_DSC0064.JPG)
+![P1190495.JPG]({{site.baseurl}}/images/P1190495.JPG)
+![P1190538.JPG]({{site.baseurl}}/images/P1190538.JPG)
+![P1190796.JPG]({{site.baseurl}}/images/P1190796.JPG)
+
+
