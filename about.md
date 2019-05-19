@@ -27,6 +27,7 @@ _(English version below)_
 
 ### Arts vivants
 
+* 2019 : Scénographe pour _Borderline(s)_, spectacle de Selin Altıparmak et Thérésa Berger, Lilas en scène, Théâtre de la Reine Blanche.
 * 2019 : Ateliers de scénographie pour l'association _Ma P'tite Folie_ à la _MPAA_ de Paris.
 * 2019 : Scénographe pour _Je m'appelle David R._, comédie musicale écrite par Cyrille Garit & Elsa Vasseur, composée par Nicolas Porcher & Matthieu Truffinet et mise en scène par **Nicolas Guilleminot**.
 * 2018 : Régisseuse générale pour _Il faut arracher la joie aux jours qui filent_, pièce adaptée par Benjamin Porée et Mathieu Dessertine et mise en scène par **Benjamin Porée** Cie. La Musicienne du Silence. Réprésentations au Théatre des Gémeaux, au Quartz, au Parvis et au Théâtre du Luxembourg.
@@ -65,10 +66,11 @@ _(English version below)_
 <br>
 
 ### Image & Vidéo
+* 2019 : Chef-déco pour le clip de campagne de la France Insoumise pour les Europpéennes.Realisé par **Jules Follet** et produit par Rue de la Sardine, Paris.
 * 2019 : Chef-déco pour le clip _Le vent se lève_ du groupe **Bleu Toucan**, realisé par **Grama**, label Profil de face, Paris.
 * 2018 : Assistante-déco pour le shooting print et web de la collection textile **Hermès**.
 * 2017 : Réalisation de _Centre_, un court métrage sur et avec les membres du CATTP Centre Carpeaux, de l'hopital Maison blanche, Paris. (projet en cours)
-* 2017 : Chef-déco pour le clip _Comment te dire Adieu_ de la chanteuse Camille Bertault, realisé par Jules Follet et produit par Sony et Rue de la Sardine, Paris.
+* 2017 : Chef-déco pour le clip _Comment te dire Adieu_ de la chanteuse Camille Bertault, realisé par **Jules Follet** et produit par Sony et Rue de la Sardine, Paris.
 * 2013 : Réalisation de _Fall through_, un court métrage en plan séquence, EnsAD, Paris.
 * 2012 : Accessoiriste sur le tournage du court-métrage _Aussi Loin_ de **Franziska M. Hoenisch**, Paris.
 <br>
@@ -98,6 +100,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 ## **Experience**
 
 ### Performing arts
+* 2019 : Stage design for _Borderline(s)_, a theater play by Selin Altıparmak & Thérésa Berger, Lilas en scène, Théâtre de la Reine Blanche, Paris.
 * 2019 : Stage design teacher for _Ma P'tite Folie's_ workshops at MPAA Paris
 * 2019 : Stage designer for _Je m'appelle David R._, a musical written by Cyrille Garit & Elsa Vasseur, composed by Nicolas Porcher & Matthieu Truffinet and directed by Nicolas Guilleminot.
 * 2018 : Technical director for _Il faut arracher la joie aux jours qui filent_, a play adapted and directed by Benjamin Porée, Cie. La Musicienne du Silence. At the Théâtre des Gemeaux (Sceaux), Le Quartz (Brest), Théâtre du Luxembourg (Meaux), Le Parvis (Tarbes). 
