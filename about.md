@@ -140,6 +140,7 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 
 ### Image & Video
 
+* 2019 : Production designer for the video clip La France Insoumise for UE elections, realized by **Jules Follet** and produced by Rue de la Sardine, Paris.
 * 2019 : Production designer for the video clip _Le vent de lève_ of the band **Bleu Toucan**, realized by **Grama**, label Profil de face, Paris.
 * 2018 : Assistant set designer for print and web shots of **Hermès** textile collection.  
 * 2017 : Realization of _Centre_, a short film about and with the members of the CATTP Centre Carpeaux, Hospital Maison Blanche, Paris.
