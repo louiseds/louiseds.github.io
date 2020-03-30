@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_lesrats.jpg
 date: '2019-03-17 18:25 +0100'
-published: true
+published: false
 title: Les Rats
 ---
 Scénographie et costumes
@@ -33,5 +33,3 @@ Les Rats peuvent être considérés comme la seconde partie d'un diptyque consti
 ![P1190495.JPG]({{site.baseurl}}/images/P1190495.JPG)
 ![P1190538.JPG]({{site.baseurl}}/images/P1190538.JPG)
 ![P1190796.JPG]({{site.baseurl}}/images/P1190796.JPG)
-
-
