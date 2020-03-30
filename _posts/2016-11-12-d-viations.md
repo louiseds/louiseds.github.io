@@ -2,7 +2,7 @@
 layout: post
 title: Déviations
 date: '2016-06-24 00:05 +0100'
-published: true
+published: false
 preview: images/th_deviations.jpg
 ---
 Concept, mise en scène et scénographie
