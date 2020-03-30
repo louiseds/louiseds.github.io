@@ -2,7 +2,7 @@
 layout: post
 preview: images/th_transmediale.jpg
 date: '2015-01-15 18:04 +0100'
-published: true
+published: false
 title: Watch your traces
 ---
 Digital installation
