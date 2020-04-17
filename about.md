@@ -25,8 +25,11 @@ _(English version below)_
 
 ## **Expérience**
 
+Cheffe de projet à l'**[Atelier 20.12](http://www.20point12.com/)** depuis mai 2019. Productions de décors pour plusieurs évènements Hermès, Défilés Dior Homme, spectacles de l'Opéra Comique ou encore pour le théâtre du Vieux Colombier de la Comédie Française.
+
 ### Arts vivants
 
+* 2019 : Scénographe et costumière pour _Dracula_, spectacle de **Julie Bertin**, avec l'Orchestre national de Jazz dirigé par Frederic Maurin.
 * 2019 : Scénographe pour _Borderline(s)_, spectacle de Selin Altıparmak et Thérésa Berger, Lilas en scène, Théâtre de la Reine Blanche.
 * 2019 : Ateliers de scénographie pour l'association _Ma P'tite Folie_ à la _MPAA_ de Paris.
 * 2019 : Scénographe pour _Je m'appelle David R._, comédie musicale écrite par Cyrille Garit & Elsa Vasseur, composée par Nicolas Porcher & Matthieu Truffinet et mise en scène par **Nicolas Guilleminot**.
@@ -99,7 +102,12 @@ Louise Douet-Sinenberg is an artist and stage designer born in Nantes (France) A
 
 ## **Experience**
 
+Project manager at l'**Atelier 20.12** since may 2019. Decor productions for Hermès events, Dior men fashion shows, Opéra Comique's show and the theatre Vieux Colombier of la Comédie Française.
+
+
 ### Performing arts
+
+* 2019 : Stage and costum designer for _Dracula_, a musical play by **Julie Bertin**, with the National orchestre of Jazz directed by Frederic Maurin.
 * 2019 : Stage design for _Borderline(s)_, a theater play by Selin Altıparmak & Thérésa Berger, Lilas en scène, Théâtre de la Reine Blanche, Paris.
 * 2019 : Stage design teacher for _Ma P'tite Folie's_ workshops at MPAA Paris
 * 2019 : Stage designer for _Je m'appelle David R._, a musical written by Cyrille Garit & Elsa Vasseur, composed by Nicolas Porcher & Matthieu Truffinet and directed by Nicolas Guilleminot.
